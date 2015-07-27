@@ -409,7 +409,26 @@ http://103.7.56.14:13579/exchange/cth5.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-shift=-1 tvg-id=”CTH Stadium 6″ tvg-logo=”.png”group-title=”SPORTS”,[COLOR goldenrod][I][B] CTH Stadium 6 [/B][/I][/COLOR]
 http://103.7.56.14:13579/exchange/cth6.stream/playlist.m3u8
- 
+
+#EXTINF:0,Sky Sports News HQ UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK?auth=test+test
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test?auth=test+test
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
+#EXTINF:0,beIN Sports 1 HD
+http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-1-HD?auth=test+test
+#EXTINF:0,beIN Sports 2 HD
+http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-2-HD?auth=test+test
+
 #EXTINF:-1,ID (EN)
 http://80.77.52.6:3917/udp/226.0.3.1:12345
 #EXTINF:-1,CN (EN)
