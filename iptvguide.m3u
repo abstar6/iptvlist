@@ -1,713 +1,134 @@
 #EXTM3U
 
-#EXTINF:-1,GB: Yesterday
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3962.ts
-#EXTINF:-1,GB: Watch
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3961.ts
-#EXTINF:-1,GB: Sy-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3939.ts
-#EXTINF:-1,GB: More4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4000.ts
-#EXTINF:-1,GB: Sky 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3938.ts
-#EXTINF:-1,GB: Sky Movies ShowCase
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3923.ts
-#EXTINF:-1,GB: Sky Movies Modern Great HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3925.ts
-#EXTINF:-1,GB: Sky Movies Family HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3926.ts
-#EXTINF:-1,GB: Sky Movies Disney HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3927.ts
-#EXTINF:-1,GB: Really
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3947.ts
-#EXTINF:-1,GB: Quest
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3959.ts
-#EXTINF:-1,GB: Pick TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3958.ts
-#EXTINF:-1,GB: PBS America
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3995.ts
-#EXTINF:-1,GB: Nick JR
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3963.ts
-#EXTINF:-1,GB: Watch UK
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4014.ts
-#EXTINF:-1,GB: Mototrs TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4009.ts
-#EXTINF:-1,GB: ITV ENC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4027.ts
-#EXTINF:-1,GB: Horror Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3941.ts
-#EXTINF:-1,GB: Home
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3993.ts
-#EXTINF:-1,GB: Good Food
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3990.ts
-#EXTINF:-1,GB: Food Network
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3991.ts
-#EXTINF:-1,GB: Flava
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4020.ts
-#EXTINF:-1,GB: EuroNews
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4005.ts
-#EXTINF:-1,GB: Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3957.ts
-#EXTINF:-1,GB: DisneyXD Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3971.ts
-#EXTINF:-1,GB: Disney Junior Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3970.ts
-#EXTINF:-1,GB: Disney Junior
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3969.ts
-#EXTINF:-1,GB: Discovery Turbo
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3978.ts
-#EXTINF:-1,GB: Discovery Science HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4069.ts
-#EXTINF:-1,GB: Discovery Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3976.ts
-#EXTINF:-1,GB: Discovery Investigation
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3982.ts
-#EXTINF:-1,GB: Comedy Central
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3948.ts
-#EXTINF:-1,GB: CBS Reality
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3946.ts
-#EXTINF:-1,GB: CBS Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3945.ts
-#EXTINF:-1,GB: CBS Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3944.ts
-#EXTINF:-1,GB: Cartoonito
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3966.ts
-#EXTINF:-1,GB: Cartoon NetWork
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3967.ts
-#EXTINF:-1,GB: Box Nation HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4010.ts
-#EXTINF:-1,GB: Atlantic Plus 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3943.ts
-#EXTINF:-1,GB: Alibi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3954.ts
-#EXTINF:-1,GB: 3E
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3953.ts
-#EXTINF:-1,GB: Sky Two
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3573.ts
-#EXTINF:-1,GB: Sky Thriller
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3575.ts
-#EXTINF:-1,GB: Sky Sport News
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3604.ts
-#EXTINF:-1,GB: Sky Sport F1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3603.ts
-#EXTINF:-1,GB: Sky Sport F1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3602.ts
-#EXTINF:-1,GB: SKY SPORT 5 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4458.ts
-#EXTINF:-1,GB: Sky Sport 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3601.ts
-#EXTINF:-1,GB: Sky Sport 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3600.ts
-#EXTINF:-1,GB: Sky Sport 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3599.ts
-#EXTINF:-1,GB: Sky Sport 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3598.ts
-#EXTINF:-1,GB: Sky Sport 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3597.ts
-#EXTINF:-1,GB: Sky Sport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3596.ts
-#EXTINF:-1,GB: Sky Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3595.ts
-#EXTINF:-1,GB: Sky Sport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3594.ts
-#EXTINF:-1,GB: Sky Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3593.ts
-#EXTINF:-1,GB: Sky Sci-Fi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3574.ts
-#EXTINF:-1,GB: Sky One
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3571.ts
-#EXTINF:-1,GB: Sky News
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3570.ts
-#EXTINF:-1,GB: Sky Movie Premiere
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3569.ts
-#EXTINF:-1,GB: LiverPool TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3568.ts
-#EXTINF:-1,GB: Sky Living
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3567.ts
-#EXTINF:-1,GB: Sky Family
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3566.ts
-#EXTINF:-1,GB: Sky MOVIE Drama
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3565.ts
-#EXTINF:-1,GB: Sky Disney
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3564.ts
-#EXTINF:-1,GB: Sky Comedy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3563.ts
-#EXTINF:-1,GB: Sky Atlantic
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3562.ts
-#EXTINF:-1,GB: NATIONAL GEOGRAPHIC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3561.ts
-#EXTINF:-1,GB: Sky Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3559.ts
-#EXTINF:-1,GB: Setanta Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3583.ts
-#EXTINF:-1,GB: Racing
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3585.ts
-#EXTINF:-1,GB: Premiere Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3584.ts
-#EXTINF:-1,GB: ITV 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3579.ts
-#EXTINF:-1,GB: ITV 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3578.ts
-#EXTINF:-1,GB: ITV 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3577.ts
-#EXTINF:-1,GB: ITV 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3576.ts
-#EXTINF:-1,GB: EuroSport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3591.ts
-#EXTINF:-1,GB: EuroSport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3590.ts
-#EXTINF:-1,GB: BT Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3588.ts
-#EXTINF:-1,GB: BT Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3586.ts
-#EXTINF:-1,GB: BBC 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3582.ts
-#EXTINF:-1,GB: BBC 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3581.ts
-#EXTINF:-1,GB: BBC 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3580.ts
-#EXTINF:-1,GB: True Movies 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2662.ts
-#EXTINF:-1,GB: True Movies 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2661.ts
-#EXTINF:-1,GB: Sky Sci-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2668.ts
-#EXTINF:-1,GB: PlayBoy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2684.ts
-#EXTINF:-1,GB: Nick
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2669.ts
-#EXTINF:-1,GB: MUTV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2655.ts
-#EXTINF:-1,GB: MTV MUSIC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2670.ts
-#EXTINF:-1,GB: Fox
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2656.ts
-#EXTINF:-1,GB: ESPN HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2673.ts
-#EXTINF:-1,GB: E4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2674.ts
-#EXTINF:-1,GB: Disney XD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2675.ts
-#EXTINF:-1,GB: Discovery World
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2678.ts
-#EXTINF:-1,GB: Discovery Science
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2679.ts
-#EXTINF:-1,GB: Channel 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2680.ts
-#EXTINF:-1,GB: Channel 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2681.ts
-#EXTINF:-1,GB: Box Nation
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2682.ts
-#EXTINF:-1,GB: Animal Planet
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2683.ts
-#EXTINF:-1,GB: 5 USA
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2652.ts
-#EXTINF:-1,GB: Vivo 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1953.ts
-#EXTINF:-1,GB: Vivo 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1952.ts
-#EXTINF:-1,GB: Vivo 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1951.ts
-#EXTINF:-1,GB: Sky Sports News HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1954.ts
-#EXTINF:-1,GB: Sky Movies Thriller HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1955.ts
-#EXTINF:-1,GB: Sky Movies Sci-Fi HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1957.ts
-#EXTINF:-1,GB: Sky Movies Premiere HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1958.ts
-#EXTINF:-1,GB: Sky Movies Modern Great
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1959.ts
-#EXTINF:-1,GB: Sky Movies Drama HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1960.ts
-#EXTINF:-1,GB: Sky Movies Action HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1961.ts
-#EXTINF:-1,GB: Sky Atlantic HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1962.ts
-#EXTINF:-1,GB: Sky Arts 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1963.ts
-#EXTINF:-1,GB: Setanta Ireland
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1965.ts
-#EXTINF:-1,GB: RTE 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1967.ts
-#EXTINF:-1,GB: RTE 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1966.ts
-#EXTINF:-1,GB: National Geography Wild
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1968.ts
-#EXTINF:-1,GB: Movies 4 Men
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1971.ts
-#EXTINF:-1,GB: Living
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1972.ts
-#EXTINF:-1,GB: ITV 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1976.ts
-#EXTINF:-1,GB: ITV 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1975.ts
-#EXTINF:-1,GB: ITV 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1974.ts
-#EXTINF:-1,GB: ITV 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1973.ts
-#EXTINF:-1,GB: Gold
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1977.ts
-#EXTINF:-1,GB: Five
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1978.ts
-#EXTINF:-1,GB: Film 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1979.ts
-#EXTINF:-1,GB: Eurosport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1981.ts
-#EXTINF:-1,GB: Eurosport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1980.ts
-#EXTINF:-1,GB: Dmax
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1983.ts
-#EXTINF:-1,GB: Disney Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1984.ts
-#EXTINF:-1,GB: Discovery History
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1985.ts
-#EXTINF:-1,GB: Discovery
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1986.ts
-#EXTINF:-1,GB: Dave
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1987.ts
-#EXTINF:-1,GB: Colors
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1988.ts
-#EXTINF:-1,GB: Chelsea FC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1990.ts
-#EXTINF:-1,GB: BT Sports 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1992.ts
-#EXTINF:-1,GB: BT Sports 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1991.ts
-#EXTINF:-1,GB: BBC 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1996.ts
-#EXTINF:-1,GB: BBC 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1995.ts
-#EXTINF:-1,GB: BBC 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1994.ts
-#EXTINF:-1,GB: BBC 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1993.ts
-#EXTINF:-1,GB: At The Races
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1997.ts
-#EXTINF:-1,GR: West Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1582.ts
-#EXTINF:-1,GR: VOULI
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1592.ts
-#EXTINF:-1,GR: VIMA TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1583.ts
-#EXTINF:-1,GR: Tile Sport TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1593.ts
-#EXTINF:-1,GR: TELE EPILOGES
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1594.ts
-#EXTINF:-1,GR: Star BackUP
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2017.ts
-#EXTINF:-1,GR: LePanto TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1585.ts
-#EXTINF:-1,GR: Kriti TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1611.ts
-#EXTINF:-1,GR: Kontra TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1612.ts
-#EXTINF:-1,GR: Kissamos TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1586.ts
-#EXTINF:-1,GR: Kanali 6 Xanthi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1597.ts
-#EXTINF:-1,GR: IOANNINA TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1598.ts
-#EXTINF:-1,GR: Flash TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1599.ts
-#EXTINF:-1,GR: Faros Web TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1600.ts
-#EXTINF:-1,GR: EXTRA 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1601.ts
-#EXTINF:-1,GR: Euronews
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1613.ts
-#EXTINF:-1,GR: ET3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1587.ts
-#EXTINF:-1,GR: Epsilon
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1614.ts
-#EXTINF:-1,GR: Epirus TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1588.ts
-#EXTINF:-1,GR: ELLADA TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1602.ts
-#EXTINF:-1,GR: CY Sigma
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1616.ts
-#EXTINF:-1,GR: CY RIK Sat
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1589.ts
-#EXTINF:-1,GR: CY Extra Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1617.ts
-#EXTINF:-1,GR: CY Ant 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1618.ts
-#EXTINF:-1,GR: CORFU CHANNEL
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1590.ts
-#EXTINF:-1,GR: BEST TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1604.ts
-#EXTINF:-1,GR: ANT1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2020.ts
-#EXTINF:-1,GR: Alpha
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2012.ts
-#EXTINF:-1,GR: Aigaio TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1606.ts
-#EXTINF:-1,GR: ACTION 24
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1591.ts
-#EXTINF:-1,GR: 4E TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1607.ts
-#EXTINF:-1,IN: Zing BackUP
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3791.ts
-#EXTINF:-1,IN: Zee Tv Us
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5498.ts
-#EXTINF:-1,IN: Z Cine
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5500.ts
-#EXTINF:-1,IN: VijaY
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5501.ts
-#EXTINF:-1,IN: Sun Tv
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5479.ts
-#EXTINF:-1,IN: Sun Music
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5480.ts
-#EXTINF:-1,IN: Starz Cinema
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5485.ts
-#EXTINF:-1,IN: Star Plus
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5481.ts
-#EXTINF:-1,IN: SonY Us
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5483.ts
-#EXTINF:-1,IN: Sony Sab
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5484.ts
-#EXTINF:-1,IN: Sony HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5482.ts
-#EXTINF:-1,IN: Sirip
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5499.ts
-#EXTINF:-1,IN: Set Mx
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5488.ts
-#EXTINF:-1,IN: omni1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5489.ts
-#EXTINF:-1,IN: Ktv
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5491.ts
-#EXTINF:-1,IN: jmovie
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5487.ts
-#EXTINF:-1,IN: jayatv
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5490.ts
-#EXTINF:-1,IN: J Max
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5492.ts
-#EXTINF:-1,IN: Dish Cinma
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5477.ts
-#EXTINF:-1,IN: ChnLi
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5493.ts
-#EXTINF:-1,IN: B4U Movie
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5478.ts
-#EXTINF:-1,IN: Atn Bang
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5495.ts
-#EXTINF:-1,IN: And TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5494.ts
-#EXTINF:-1,IN: Aath
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5496.ts
-#EXTINF:-1,IN: Aapkaus
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5486.ts
-#EXTINF:-1,IN: Aajtak
-http://portal.rapidiptv.com:8080/live/jojo/jojo/5497.ts
-
-#EXTINF:-1,US: Ten Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4340.ts
-#EXTINF:-1,US: NBA TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4339.ts
-#EXTINF:-1,US: EPL 5 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4338.ts
-#EXTINF:-1,US: EPL 4 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4337.ts
-#EXTINF:-1,US: EPL 3 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4336.ts
-#EXTINF:-1,US: EPL 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4335.ts
-#EXTINF:-1,US: EPL 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4334.ts
-#EXTINF:-1,US: Qvc Style
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4053.ts
-#EXTINF:-1,US: Qvc Beauty
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4054.ts
-#EXTINF:-1,US: Eden
-http://portal.rapidiptv.com:8080/live/jojo/jojo/4057.ts
-#EXTINF:-1,US: NBC HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3465.ts
-#EXTINF:-1,US: Big Ten Sports
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3466.ts
-#EXTINF:-1,US: USA NetWork
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2617.ts
-#EXTINF:-1,US: TSN Sports 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2645.ts
-#EXTINF:-1,US: TSN Sports 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2644.ts
-#EXTINF:-1,US: TSN Sports 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2643.ts
-#EXTINF:-1,US: TSN Sports 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2642.ts
-#EXTINF:-1,US: TSN Sports 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2641.ts
-#EXTINF:-1,US: BET
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2618.ts
-#EXTINF:-1,US: Sy-Fy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2619.ts
-#EXTINF:-1,US: Sports Net 360
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2637.ts
-#EXTINF:-1,US: DISCOVERY SCIENCE
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2650.ts
-#EXTINF:-1,US:STARZ CHILDREN
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2649.ts
-#EXTINF:-1,US: CBC
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2648.ts
-#EXTINF:-1,US: Comedy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2647.ts
-#EXTINF:-1,US: DISCOVERY INVESTIGATION
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2646.ts
-#EXTINF:-1,US: WARNER
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2630.ts
-#EXTINF:-1,US: TELETOON
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2620.ts
-#EXTINF:-1,US: NBCSN
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2621.ts
-#EXTINF:-1,US: NBC Sports
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2622.ts
-#EXTINF:-1,US: NBC Golf Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2623.ts
-#EXTINF:-1,US: NICK
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2624.ts
-#EXTINF:-1,US: DISNEY JR
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2625.ts
-#EXTINF:-1,US: HISTORY
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2626.ts
-#EXTINF:-1,US: SPORTSNET ONTARIO
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2627.ts
-#EXTINF:-1,US: Fox Sport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2636.ts
-#EXTINF:-1,US: Fox Sport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2635.ts
-#EXTINF:-1,US: Food Network HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2628.ts
-#EXTINF:-1,US: FIGHT NETWORK
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2634.ts
-#EXTINF:-1,US: ESPN HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2633.ts
-#EXTINF:-1,US: NAT GEO WILD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2629.ts
-#EXTINF:-1,US: Big Ten Sport
-http://portal.rapidiptv.com:8080/live/jojo/jojo/2632.ts
-
-#EXTINF:-1,ex-Yu: History Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1454.ts
-#EXTINF:-1,ex-Yu: HBO Comedy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1453.ts
-#EXTINF:-1,ex-Yu: HBO Adria
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1452.ts
-
-#EXTINF:-1,ex-Yu: Fox TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1448.ts
-#EXTINF:-1,ex-Yu: Fox Movies
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1451.ts
-#EXTINF:-1,ex-Yu: Fox Life
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1450.ts
-#EXTINF:-1,ex-Yu: Fox Crime
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1449.ts
-#EXTINF:-1,ex-Yu: EuroSport 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1444.ts
-#EXTINF:-1,ex-Yu: EuroSport 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1443.ts
-#EXTINF:-1,ex-Yu: E
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1467.ts
-
-#EXTINF:-1,ex-Yu: Discovery Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1445.ts
-
-#EXTINF:-1,DE: Sky Sport News
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3435.ts
-#EXTINF:-1,DE: Sky TNT Serie HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3421.ts
-#EXTINF:-1,DE: Sky TNT Film HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3422.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3418.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3417.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3416.ts
-#EXTINF:-1,DE: Sky Select HD 5
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3415.ts
-#EXTINF:-1,DE: Sky Select HD 4
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3414.ts
-#EXTINF:-1,DE: Sky Select HD 3
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3413.ts
-#EXTINF:-1,DE: Sky Select HD 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3412.ts
-#EXTINF:-1,DE: Sky Select HD 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3411.ts
-#EXTINF:-1,DE: Sky National Geographic HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3419.ts
-#EXTINF:-1,DE: Sky NatGeo Wild HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3433.ts
-#EXTINF:-1,DE: Sky MGM HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3423.ts
-
-#EXTINF:-1,DE: Sky History Channel
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3424.ts
-#EXTINF:-1,DE: Sky Fox HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3425.ts
-#EXTINF:-1,DE: Sky Discovery Channel HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3426.ts
-#EXTINF:-1,DE: Sky Comedy HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3430.ts
-#EXTINF:-1,DE: Sky Cinema HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3420.ts
-#EXTINF:-1,DE: Sky Cinema  24
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3431.ts
-#EXTINF:-1,DE: Sky Cinema  1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3434.ts
-#EXTINF:-1,DE: Sky BundesLiga 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3436.ts
-#EXTINF:-1,DE: Sky Action HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3432.ts
-#EXTINF:-1,DE: Sky 13 Street HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3428.ts
-#EXTINF:-1,DE: RTL
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3202.ts
-#EXTINF:-1,DE: ProSieben
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3455.ts
-#EXTINF:-1,DE: SKY 3D
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3437.ts
-#EXTINF:-1,DE: ORF 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3447.ts
-#EXTINF:-1,DE: ORF 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3446.ts
-#EXTINF:-1,DE: Ndr HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3443.ts
-#EXTINF:-1,DE: Nat Geo
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3204.ts
-#EXTINF:-1,DE: N24 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3448.ts
-#EXTINF:-1,DE: N-TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3449.ts
-#EXTINF:-1,DE: MDR HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3440.ts
-#EXTINF:-1,DE: Kika HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3450.ts
-#EXTINF:-1,DE: Halle TV
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3454.ts
-#EXTINF:-1,DE: Eins Plus HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3444.ts
-#EXTINF:-1,DE: Arte HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3445.ts
-#EXTINF:-1,DE: ARD HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3451.ts
-#EXTINF:-1,DE: 3Sat HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/3452.ts
-#EXTINF:-1,DE: ZDF
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1629.ts
-#EXTINF:-1,DE: VOX
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1630.ts
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1480.ts
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1479.ts
-#EXTINF:-1,DE: Sky Emotion
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1631.ts
-#EXTINF:-1,DE: Sky Comedy
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1632.ts
-#EXTINF:-1,DE: Sky Cinema Plus 24
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1633.ts
-#EXTINF:-1,DE: Sky Cinema
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1634.ts
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1478.ts
-#EXTINF:-1,DE: Sky Atlantic
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1635.ts
-#EXTINF:-1,DE: Sky Action
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1636.ts
-#EXTINF:-1,DE: Sat 1
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1637.ts
-#EXTINF:-1,DE: RTL Nitro
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1639.ts
-#EXTINF:-1,DE: RTL 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1641.ts
-#EXTINF:-1,DE: Pro 7
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1642.ts
-#EXTINF:-1,DE: ORF Eins
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1643.ts
-#EXTINF:-1,DE: ORF 2
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1644.ts
-#EXTINF:-1,DE: National Geographic
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1645.ts
-#EXTINF:-1,DE: Nat Geo Wild
-http://portal.rapidiptv.com:8080/live/jojo/jojo/1646.ts
-
-#EXTINF:-1,Woman in Gold [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5028.mkv
-#EXTINF:-1,With This Ring [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5027.mkv
-#EXTINF:-1,True Story [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5026.mkv
-#EXTINF:-1,The Wedding Ringer [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5025.mkv
-#EXTINF:-1,The SpongeBob Movie Sponge Out of Water [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5024.mkv
-#EXTINF:-1,The Second Best Exotic Marigold Hotel [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5023.mkv
-#EXTINF:-1,The Mourning [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5022.mkv
-#EXTINF:-1,The Longest Ride [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5021.mkv
-#EXTINF:-1,The Emperors New Clothes [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5020.mkv
-#EXTINF:-1,The Eichmann Show [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5019.mkv
-#EXTINF:-1,The DUFF [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5018.mkv
-#EXTINF:-1,The Age of Adaline [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5017.mkv
-#EXTINF:-1,Survivor [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5016.mkv
-#EXTINF:-1,Strangerland [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5015.mkv
-#EXTINF:-1,Straight Outta Tompkins [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5014.mkv
-#EXTINF:-1,Spy [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5013.mkv
-#EXTINF:-1,Spare Parts [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5012.mkv
-#EXTINF:-1,Slow West [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5011.mkv
-#EXTINF:-1,Signed Sealed Delivered From Paris With Love [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5010.mkv
-#EXTINF:-1,Shaun the Sheep Movie [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5009.mkv
-#EXTINF:-1,Run All Night [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5008.mkv
-#EXTINF:-1,Roald Dahls Esio Trot [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5007.mkv
-#EXTINF:-1,Pound of Flesh [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5006.mkv
-#EXTINF:-1,Paul Blart Mall Cop 2 [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5005.mkv
-#EXTINF:-1,McFarland USA [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5004.mkv
-#EXTINF:-1,Maggie [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5003.mkv
-#EXTINF:-1,Mad Max Fury Road [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5002.mkv
-#EXTINF:-1,Laugh Killer Laugh [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5001.mkv
-#EXTINF:-1,Last Knights [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/5000.mkv
-#EXTINF:-1,Insurgent [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4999.mkv
-#EXTINF:-1,Home [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4998.mkv
-#EXTINF:-1,Get Hard [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4997.mkv
-#EXTINF:-1,Furious Seven [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4996.mkv
-#EXTINF:-1,Focus [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4995.mkv
-#EXTINF:-1,Ex Machina [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4994.mkv
-#EXTINF:-1,Danny Collins [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4993.mkv
-#EXTINF:-1,Cinderella [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4992.mkv
-#EXTINF:-1,Chappie [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4991.mkv
-#EXTINF:-1,Champs [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4990.mkv
-#EXTINF:-1,Bound to Vengeance [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4989.mkv
-#EXTINF:-1,Advantageous [2015]
-http://portal.rapidiptv.com:8080/movie/jojo/jojo/4988.mkv
+#EXTINF:-1,CBS NY HD
+rtmp://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku
+#EXTINF:-1,NBC NY HD
+rtmp://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp
+#EXTINF:-1,CW44 HD FLORIDA
+rtmp://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd
+#EXTINF:-1,CW44 FLORIDA
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:-1, ABC22 OHIO HD
+rtmp://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b
+#EXTINF:-1, FOX45 SD
+rtmp://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky
+#EXTINF:-1, FOX45 HD
+rtmp://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p
+#EXTINF:-1, ESPN HD
+rtmp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1, ESPN
+rtmp://93.174.95.125:1935/edge/_definst_/dp2g1w4ip6v0zoc
+#EXTINF:-1, ESPN1
+rtmp://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf
+#EXTINF:-1, ESPN 2 HD
+rtmp://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt
+#EXTINF:-1, ESPN 2
+rtmp://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o
+#EXTINF:-1, 
+rtmp://93.174.95.125:1935/edge/_definst_/fzasab6vz02yuf7
+#EXTINF:-1, NBC Sport Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4
+#EXTINF:-1, NBC Sport Network
+rtmp://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89
+#EXTINF:-1, Golf channel
+rtmp://93.174.95.125:1935/edge/_definst_/lw1kufim1kmit1h
+#EXTINF:-1, Golf Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4
+#EXTINF:-1, sky sport2
+rtmp://93.174.95.125:1935/edge/_definst_/on39ol6in4f2ewp
+#EXTINF:-1, sky sport4
+rtmp://93.174.95.125:1935/edge/_definst_/21ajqprn56aebp3
+#EXTINF:-1, BT SPORT 1 HD UK
+rtmp://93.174.95.125:1935/edge/_definst_/thj91224cuxnfr1
+#EXTINF:-1, BT SPORT 2 HD UK
+rtmp://93.174.95.125:1935/edge/_definst_/z3ua1ed00znttfp
+#EXTINF:-1, Disney channel
+rtmp://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2
+#EXTINF:-1, Nickelodeon
+rtmp://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0
+#EXTINF:-1, CARTOON NETWORK
+rtmp://93.174.95.125:1935/edge/_definst_/p78zj79dhlxx3ws
+#EXTINF:-1, ABC Family
+rtmp://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8
+#EXTINF:-1, OWN
+rtmp://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3
+#EXTINF:-1,Lifetime HD
+rtmp://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e
+#EXTINF:-1,Hallmark HD
+rtmp://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq
+#EXTINF:-1,TV Land
+rtmp://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca
+#EXTINF:-1,USA Network
+rtmp://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq
+#EXTINF:-1, Bravo
+rtmp://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l
+#EXTINF:-1, TNT
+rtmp://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo
+#EXTINF:-1, TNT HD
+rtmp://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3
+#EXTINF:-1, TLC
+rtmp://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck
+#EXTINF:-1, TBS
+rtmp://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh
+#EXTINF:-1, AMC
+rtmp://93.174.95.125:1935/edge/_definst_/7pctmre0zfwsc24
+#EXTINF:-1,AMC HD
+rtmp://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m
+#EXTINF:-1,TruTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
+#EXTINF:-1, Syfy HD
+rtmp://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4
+#EXTINF:-1, Spike
+rtmp://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww
+#EXTINF:-1,TruTV HD
+rtmp://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w
+#EXTINF:-1, A&E
+rtmp://93.174.95.125:1935/edge/_definst_/tuc280rbycwnsvs
+#EXTINF:-1, Travel Channel
+rtmp://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq
+#EXTINF:-1, Travel Channel HD
+rtmp://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d
+#EXTINF:-1, Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib
+#EXTINF:-1, Oxygen
+rtmp://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz
+#EXTINF:-1, HGTV
+rtmp://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut
+#EXTINF:-1, Food Network
+rtmp://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e
+#EXTINF:-1, Food Network HD
+rtmp://93.174.95.125:1935/edge/_definst_/ibnnu7537h3ax6e
+#EXTINF:-1, National Geographic HD
+rtmp://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs
+#EXTINF:-1, MSNBC HD
+rtmp://93.174.95.125:1935/edge/_definst_/1341ujtliqndod8
+#EXTINF:-1, Fox News
+rtmp://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam
+#EXTINF:-1, Fox News HD
+rtmp://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr
+#EXTINF:-1, CNN HD
+rtmp://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq
+#EXTINF:-1, CNN
+rtmp://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb
+#EXTINF:-1, Discovery HD
+rtmp://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo
+#EXTINF:-1, Discovery Science HD
+rtmp://93.174.95.125:1935/edge/_definst_/ajcjdksbd8wk32z
+#EXTINF:-1, Discovery
+rtmp://93.174.95.125:1935/edge/_definst_/ro7c9eha0z96hpp
+#EXTINF:-1, History
+rtmp://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6
+#EXTINF:-1, HBO
+rtmp://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz
+#EXTINF:-1, HBO HD
+rtmp://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy
+#EXTINF:-1, Showtime Movie
+rtmp://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks
+#EXTINF:-1, Showtime HD
+rtmp://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv
+#EXTINF:-1, Fox Movie Channel
+rtmp://93.174.95.125:1935/edge/_definst_/hc992q7x7cz86t9
+#EXTINF:-1, StarZ movie channel
+rtmp://93.174.95.125:1935/edge/_definst_/8g7x80ozu6hz2ds
+#EXTINF:-1,BET
+rtmp://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl
