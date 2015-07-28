@@ -1,28 +1,194 @@
 #EXTM3U
 
-#EXTINF:-1, Sky sports 1 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, SKY SPORTS 2 HD 
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=2 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 3 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=3 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports 4 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Sky sports HD 5
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1,FOX SPORTS
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=12 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1,OSN SPORTS HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH 
-#EXTINF:-1, WWE
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=13 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, BT sport 1 ESPN
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, BT sport 1 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, BT sport 2 HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Euro sport 
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=9 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:-1, Euro sport HD
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:0,Sky 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK?auth=test+test
+#EXTINF:0,Sky 1 UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1?auth=test+test
+#EXTINF:0,Sky 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_2_UK?auth=test+test
+#EXTINF:0,Pick UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK?auth=test+test
+#EXTINF:0,Pick UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK_+1?auth=test+test
+
+#EXTINF:0,Sky Atlantic HD UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Atlantic_UK?auth=test+test
+#EXTINF:0,Sky Atlantic UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Atlantic_UK_+1?auth=test+test
+
+#EXTINF:0,Discovery Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Channel_UK?auth=test+test
+#EXTINF:0,Animal Planet Europe
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Animal_Planet_Europe?auth=test+test
+#EXTINF:0,Discovery Channel UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Channel_UK_+1?auth=test+test
+#EXTINF:0,Discovery Science Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Science_Channel_UK?auth=test+test
+#EXTINF:0,Discovery History
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_History?auth=test+test
+#EXTINF:0,Discovery Home&Health UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Home_-_Health_UK?auth=test+test
+#EXTINF:0,Discovery Turbo UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Turbo_UK?auth=test+test
+#EXTINF:0,Discovery Channel Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Discovery_Channel_Ireland?auth=test+test
+#EXTINF:0,Investigation Discovery Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Investigation_Discovery_Ireland?auth=test+test
+#EXTINF:0,TLC UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/TLC_UK?auth=test+test
+#EXTINF:0,TLC Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/TLC_Ireland?auth=test+test
+#EXTINF:0,Sky Living UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Living_UK?auth=test+test
+#EXTINF:0,Sky Living UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Living_UK_+1?auth=test+test
+#EXTINF:0,Sky Living Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Living_Ireland?auth=test+test
+#EXTINF:0,Lifetime UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Lifetime_UK?auth=test+test
+#EXTINF:0,Sky Arts
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Arts?auth=test+test
+#EXTINF:0,Fox UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Fox_UK?auth=test+test
+#EXTINF:0,Fox UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Fox_UK_+1?auth=test+test
+#EXTINF:0,Comedy Central UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?auth=test+test
+#EXTINF:0,Comedy Central Extra UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_Extra_UK?auth=test+test
+#EXTINF:0,TCM UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/TCM_UK?auth=test+test
+#EXTINF:0,Sky Movies Showcase UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Showcase_HD?auth=test+test
+#EXTINF:0,Sky Movies Action&Adventure UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Action-Adventure_UK?auth=test+test
+#EXTINF:0,Sky Movies Comedy UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Comedy_UK?auth=test+test
+#EXTINF:0,Sky Movies Sci-Fi&Horror UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Sci-Fi-Horror_UK?auth=test+test
+#EXTINF:0,Sky Movies Select UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Select_UK?auth=test+test
+#EXTINF:0,Sky Movies Disney UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Disney_UK?auth=test+test
+#EXTINF:0,Sky Movies Family UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Family_UK?auth=test+test
+#EXTINF:0,Sky Movies Premiere UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK?auth=test+test
+#EXTINF:0,Sky Movies Premiere UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Premiere_UK_+1?auth=test+test
+#EXTINF:0,Sky Movies Crime&Thriller UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Crime-Thriller_UK?auth=test+test
+#EXTINF:0,Sky Movies Drama&Romance UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Drama-Romance_UK?auth=test+test
+#EXTINF:0,Sky Movies Greats UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Greats_UK?auth=test+test
+#EXTINF:0,Movies4Men
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Movies4Men?auth=test+test
+#EXTINF:0,Sony Movie Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK?auth=test+test
+#EXTINF:0,Movies4Men +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Movies4Men-+1?auth=test+test
+#EXTINF:0,Sony Movie Channel UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK-+1?auth=test+test
+#EXTINF:0,PBS America
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/PBS_America?auth=test+test
+#EXTINF:0,Sky Sports News HQ UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK?auth=test+test
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
+#EXTINF:0,BT Sport 1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_1?auth=test+test
+#EXTINF:0,BT Sport 2
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_2?auth=test+test
+#EXTINF:0,BT Sport / ESPN
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_ESPN?auth=test+test
+#EXTINF:0,BT Sport Extra
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/BT_Sport_Extra?auth=test+test
+#EXTINF:0,Chelsea TV
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Chelsea_TV?auth=test+test
+#EXTINF:0,Racing UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Racing_UK?auth=test+test
+#EXTINF:0,Motors TV UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Motors_TV_UK?auth=test+test
+#EXTINF:0,British _Eurosport
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/British_Eurosport?auth=test+test
+#EXTINF:0,British Eurosport 2
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/British_Eurosport_2?auth=test+test
+#EXTINF:0,Setanta Ireland
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Setanta-Ireland?auth=test+test
+#EXTINF:0,Premier Sports
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Premier-Sports?auth=test+test
+#EXTINF:0,MTV UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-UK?auth=test+test
+#EXTINF:0,VH1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/VH1-UK?auth=test+test
+#EXTINF:0,MTV Rocks UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Rocks-UK?auth=test+test
+#EXTINF:0,MTV UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-UK-+1?auth=test+test
+#EXTINF:0,MTV Hits UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Hits-UK?auth=test+test
+#EXTINF:0,MTV Base UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Base-UK?auth=test+test
+#EXTINF:0,MTV Classic UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Classic-UK?auth=test+test
+#EXTINF:0,Viva UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Viva-UK?auth=test+test
+#EXTINF:0,MTV Music UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Music-UK?auth=test+test
+#EXTINF:0,MTV Dance UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-Dance-UK?auth=test+test
+#EXTINF:0,4Music
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/4Music?auth=test+test
+#EXTINF:0,The Box UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/The_Box_UK?auth=test+test
+#EXTINF:0,Kiss
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Kiss?auth=test+test
+#EXTINF:0,Kerrang!
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Kerrang!?auth=test+test
+#EXTINF:0,Smash! Hits TV
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Smash!_Hits_TV?auth=test+test
+#EXTINF:0,Quest
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Quest?auth=test+test
+#EXTINF:0,Cartoonito UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Cartoonito_UK?auth=test+test
+#EXTINF:0,Disney XD UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_XD_UK?auth=test+test
+#EXTINF:0,Disney Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_Channel_UK?auth=test+test
+#EXTINF:0,Disney Junior UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_Junior_UK?auth=test+test
+#EXTINF:0,Disney XD UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_XD_UK_+1?auth=test+test
+#EXTINF:0,Disney Channel UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_Channel_UK_+1?auth=test+test
+#EXTINF:0,Disney Junior UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_Junior_UK_+1?auth=test+test
+#EXTINF:0,Sky News UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_News_UK?auth=test+test
+
+#EXTINF:0,Sky Sports News HQ UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK?auth=test+test
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test?auth=test+test
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
