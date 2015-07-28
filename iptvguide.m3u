@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,BBC ONE
 http://198.179.30.109/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe06f06b5f212dfc23a3dbd0adf12a4635470ee97d1554e100408b24fc0b0668022156f9ae13fd5869a5b6ab5dd0c0cfe17a2a7011f2c369f82f133cb9a6a42725dd9d00bf26e301955a1ce860bd946416c8f26290af79ada74c702b2cf028a4344e075907ead4092fcf4950e24f115122593a88774bae4ccb2e496957c66ccb4d3b1ced2c368b2030506fe06b8537af24
  
@@ -193,34 +194,31 @@ http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1,USA:Vevo1 HD By Soloman
+#EXTINF:-1,USA:Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
-#EXTINF:-1,USA:Vevo2 HD By Soloman
+#EXTINF:-1,USA:Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
-#EXTINF:-1,USA:Vevo3 HD By Soloman
+#EXTINF:-1,USA:Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1,USA:Kiss Tv Music By Soloman
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,Sports Night HD By Soloman
+#EXTINF:-1,Sports Night HD
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
-#EXTINF:-1,Bahrain Sport By Soloman
-rtmp://alayam.netromedia.net/btv3/btv3
-
-#EXTINF:-1,Big Ten Network By Soloman
+#EXTINF:-1,Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#EXTINF:-1,Xtreme Impacts By Soloman
+#EXTINF:-1,Xtreme Impacts
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 
-#EXTINF:-1,Antena 3 Sports 720 HD By Soloman
+#EXTINF:-1,Antena 3 Sports 720 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
-#EXTINF:-1,Sports Night By Soloman
+#EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
 
 #EXTINF:-1,Big Ten Network HD
@@ -272,22 +270,13 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
 #EXTINF:-1, RT America
 http://odna.octoshape.net/f3f5m2v4/cds/ch4_720p/chunklist.m3u8
 
-#EXTINF:-1,Canal Idman By Soloman
-http://hls01-07.az.myvideo.az/hls-live/livepkgr/idman/idman/idman.m3u8
-
-#EXTINF:-1,ABC NEWS By Soloman
+#EXTINF:-1,ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 #EXTINF:-1,ALJAZEERA
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
 
-#EXTINF:-1, HSN By Soloman
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31
-
-#EXTINF:-1, HSN 2 By Soloman
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31
-
-#EXTINF:-1  tvg-logo="UK/London_Live.png", London Live By Soloman
+#EXTINF:-1  tvg-logo="UK/London_Live.png", London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
 
 #EXTINF:-1, CNN USA
@@ -1033,6 +1022,7 @@ http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
 http://204.107.26.252:1935/live/796.high.stream/HasBahCa.m3u8
 #EXTINF:-1 tvg-logo="hitbox.png" group-title=“DESPORTO”,[COLOR blue][I][B]HITBOX (Videojogos)[/B][/I][/COLOR]
 http://api.hitbox.tv/player/hls/ectvlol.m3u8
+
 #EXTINF:-1, EUROSPORT 2
 http://92.38.65.189:4022/udp/224.200.246.42:3527
 #EXTINF:0,GOL TV
@@ -1065,42 +1055,28 @@ http://hlsstr04.svc.iptv.rt.ru/hls/CH_EUROSPORTNEWS/variant.m3u8
  
 #EXTINF:0,SPORTSNET 360 HD
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
- 
----------------------------------------------------------------
+
 #EXTINF:-1, SPORT TIME
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
----------------------------------------------------------------
 #EXTINF:-1,Sport Time TV 1
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
----------------------------------------------------------------
 #EXTINF:-1,SPORT TIME TV 2
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
----------------------------------------------------------------
 #EXTINF:-1,Sport Time TV 3
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
----------------------------------------------------------------
 #EXTINF:-1,Sport Time TV 4
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
----------------------------------------------------------------
 #EXTINF:-1,Sport Time TV 5
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
----------------------------------------------------------------
 #EXTINF:-1,Sport Time TV 6
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
----------------------------------------------------------------
  
- 
- ---------------------------------------------------------------
 #EXTINF:-1,SPORTTIME 7HD
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
----------------------------------------------------------------  
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
----------------------------------------------------------------
 #EXTINF:-1,Sports Tonight UK
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?
- 
-ref=www.sportstonightlive.com&USER=STL_0001
  
 #EXTINF:-1,USA - PAC-12 Net. (Bay Area) HD 1080
 http://xrxs.net/video/live-p12baya-4728.m3u8
@@ -1109,25 +1085,16 @@ http://xrxs.net/video/live-p12losa-4728.m3u8
 #EXTINF:-1,USA - PAC-12 Net. (National) HD 1080
 http://xrxs.net/video/live-p12netw-4728.m3u8
  
- 
-############################################################
- 
 #EXTINF:-1,[COLOR Red] AFRICA TV[/COLOR]
-http://diavoletto-beats.com
-############################################################
- 
+
 #EXTINF:0,Vox Africa
 rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
  
- 
- 
 #EXTINF:0,Gabon TV
 rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
- 
- 
+  
 #EXTINF:0,Digital Congo
 rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
- 
  
 #EXTINF:0,Music Afrika
 rtmp://strfla13.streamakaci.com:1935/lc2new/ playpath=lc2 swfUrl=http://tv.filmover.com/jwp5/player.swf
@@ -1136,8 +1103,6 @@ pageUrl=http://www.ghanatvon.com/music-africa-tv.html
  
 #EXTINF:0,Afric Nigeria TV
 http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?
- 
-wowzasessionid=598321747
  
 #EXTINF:0,RTS 1
 rtmp://85.25.43.91/livedvr/sn/?token=play@14064079580044/ playpath=rts1236.stream
@@ -1290,7 +1255,6 @@ http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasess
 #EXTINF:0,CBS HD
 http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
  
- 
 #EXTINF:0,Food Network
 http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
  
@@ -1303,12 +1267,11 @@ http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasess
 #EXTINF:0,History Channel
 http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
  
- 
 #EXTINF:0,MSNBC SD
 http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+
 #EXTINF:0,MTV
 http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
- 
  
 #EXTINF:0,NBC HD
 http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
@@ -1317,18 +1280,14 @@ http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasess
 #EXTINF:0,Showtime HD
 http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
  
- 
 #EXTINF:0,SyFy SD
 http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
  
 #EXTINF:0,TNT HD
 http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
  
- 
- 
 #EXTINF:0,USA Network
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
- 
  
 #EXTINF:0,WAENER_TV-US
 http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/439.ts
@@ -1512,3 +1471,4 @@ http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarde
  
 #EXTINF:-1,USA Live TV Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+
