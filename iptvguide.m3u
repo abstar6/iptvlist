@@ -1,31 +1,45 @@
 #EXTM3U
 
-#EXTINF:0,BBC WORLD NEWS (UK)
-http://teleboy.customers.cdn.iptv.ch/4003/2290000/index.m3u8
-#EXTINF:-1, BBC news
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:0,CNN (EU) (USA)
-http://teleboy.customers.cdn.iptv.ch/4002/2290000/index.m3u8
-#EXTINF:0,BBC 1
-http://teleboy.customers.cdn.iptv.ch/4006/2290000/index.m3u8
-#EXTINF:0,BBC 2
-http://teleboy.customers.cdn.iptv.ch/4007/2290000/index.m3u8
-#EXTINF:0,CBBC/BBC3 (UK)
-http://teleboy.customers.cdn.iptv.ch/4008/2290000/index.m3u8
+#EXTINF:0,BBC One
+http://82.135.224.134:80/udp/239.100.3.1:1234
+#EXTINF:0,BBC Two England
+http://82.135.224.134:80/udp/239.100.3.3:1234
+#EXTINF:0,BBC Three
+http://82.135.224.134:80/udp/239.100.3.4:1234
+#EXTINF:-1, Cbbeebies / BBC 3
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8 ITV1 
 #EXTINF:0,BBC Four
 http://82.135.224.134:80/udp/239.100.3.5:1234
+#EXTINF:-1,ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1, ITV 2
+http://198.179.30.108/live/67.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe4d281e26ce1f68f2845a229fcedd5a21cfdbcc9d54e6e5e7f3f525e07c7f3cb04bfa1236bc8cc13572eec9ac7f64c4163433980dcefe3307d7a8553673f4644a656a415eaab1656627ad26e4f6b763d57b4ff83ad86ba42667b051eb4b3b1d685233f6e396c4982087deb70452bbf66168f83cb910766276812e2bc2a3e15edf0ed2b0793d16d5e0d9c5772a208214c2
+#EXTINF:-1, ITV 3
+http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2cadb9935e15e2b8da386c15df09f9ba382c9c5452dc4e1c6df0e5fac19cef99b12530fac7c13dd678d6c21c3e20510f221c76b8186c5cd1c240e6802bbf570fb9a50a196fe3fb79872b91de25115da3e6d481a5ee88a1ffa72fa021b3d70d3cc115149d4d1a2992431d2047fdb2fce13e07e108085dd31d5f6d0c474b9a857cc7bb31eebd66932b8233927534a750a9
+#EXTINF:-1, ITV 4
+http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1505c6466e8de32105d843e586b6809d55ea90b141671ed38dcedb2086c02155ea6490ae4e7eb892fe05f051c576633679449770f9f611cc1f71cc55f1cbbb31f2894d242b16191ae8aca46c05dc82ad497b0450f65581d6f7f15ac4b90dfd151e3b5251cea7a61d407b43f03b28dcfd1370fe50068ba1d448ae90a76e7ae37de3bd777677e3ca289214de34f8ee2e04
+#EXTINF:0, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:0, E4 HD
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:0,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+
+#EXTINF:-1,Cartoon network
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0,ITV 1
-http://teleboy.customers.cdn.iptv.ch/4004/2290000/index.m3u8
-#EXTINF:0,ITV 2
-http://teleboy.customers.cdn.iptv.ch/4005/2290000/index.m3u8
-#EXTINF:0,ITV 3
-http://teleboy.customers.cdn.iptv.ch/4025/2290000/index.m3u8
-#EXTINF:0,ITV 4
-http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe1505c6466e8de32105d843e586b6809d55ea90b141671ed38dcedb2086c02155ea6490ae4e7eb892fe05f051c576633679449770f9f611cc1f71cc55f1cbbb31f2894d242b16191ae8aca46c05dc82ad497b0450f65581d6f7f15ac4b90dfd151e3b5251cea7a61d407b43f03b28dcfd1370fe50068ba1d448ae90a76e7ae37de3bd777677e3ca289214de34f8ee2e04
-#EXTINF:0,CHANNEL 4 (UK)
-http://teleboy.customers.cdn.iptv.ch/4022/2290000/index.m3u8
+
 #EXTINF:0, E4 HD
 http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
 #EXTINF:0,FILM 4 (UK)
