@@ -47,6 +47,8 @@ http://teleboy.customers.cdn.iptv.ch/4023/2290000/index.m3u8
 
 #EXTINF:-1, CHELSEA TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+#EXTINF:-1, MANCHESTER CITY TV
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
 #EXTINF:-1, Liverpool FC TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 
