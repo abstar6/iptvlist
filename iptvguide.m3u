@@ -1,47 +1,5 @@
 #EXTM3U
-#EXTINF:0,UK:Sky Sports 1 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/202.ch
-#EXTINF:0,UK:Sky Sports 2 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/203.ch
-#EXTINF:0,UK:Sky Sports 3 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/204.ch
-#EXTINF:0,UK:Sky Sports 4HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/205.ch
-#EXTINF:0,UK:Sky Sports 5 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/206.ch
-#EXTINF:0,UK:F1 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/207.ch
-#EXTINF:0,UK:BT Sports 1 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/200.ch
-#EXTINF:0,UK:BT Sports 2 HD
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/201.ch
-#EXTINF:0,UK:BT Sport 1
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/164.ch
-#EXTINF:0,UK:BT Sport 2
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/165.ch
-#EXTINF:0,UK:SkySport 1
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/184.ch
-#EXTINF:0,UK:SkySport 2
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/185.ch
-#EXTINF:0,UK:SkySport 3
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/186.ch
-#EXTINF:0,UK:SkySport 4
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/187.ch
-#EXTINF:0,UK:SkySport 5
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/188.ch
-#EXTINF:0,UK:SkySport F1
-http://195.154.157.95:11000/andrewvideo@yahoo.co.uk_uk/andrewvideo@yahoo.co.uk/183.ch
 
-#EXTINF:0,24/7 Comedy Movies
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,Bravo
-http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0,CBS HD (WHIO 7)
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
 #EXTINF:0,CNN USA HD
 http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
 #EXTINF:0,CNN USA SD
