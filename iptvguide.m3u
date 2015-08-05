@@ -1,61 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,BT Sports 1 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 1 HD 2
-rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 1 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/btsd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 2 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/bthd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 2 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/btsd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 1 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 1 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 2 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 2 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 3 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 3 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 4 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 4 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 5 HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 5 SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports F1 SD
-ffrt4 rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports News HD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports News SD
-ffrt4 rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-
-#EXTINF:-1,Disney Channel
-http://81.92.105.134:5555/pl.m3u8?channel=15&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DeluxeMusic
-http://81.92.105.134:5555/pl.m3u8?channel=16&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,DMAX
-http://81.92.105.134:5555/pl.m3u8?channel=17&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=21&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Eurosport
-http://81.92.105.134:5555/pl.m3u8?channel=24&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Bloomberg
-http://81.92.105.134:5555/pl.m3u8?channel=26&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=27&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,NewChannel
-http://81.92.105.134:5555/pl.m3u8?channel=28&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Nickelodeon
-http://81.92.105.134:5555/pl.m3u8?channel=35&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
 #EXTINF:-1,BBC One Lon
 http://81.92.105.134:5555/pl.m3u8?channel=141&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,BBC Two Eng
@@ -68,190 +12,16 @@ http://81.92.105.134:5555/pl.m3u8?channel=144&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM
 http://81.92.105.134:5555/pl.m3u8?channel=145&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,CBBC
 http://81.92.105.134:5555/pl.m3u8?channel=146&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
-#EXTINF:-1,CBeebies
+#EXTINF:-1,BBC Four
 http://81.92.105.134:5555/pl.m3u8?channel=300&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,Horse & Country
 http://81.92.105.134:5555/pl.m3u8?channel=301&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
 #EXTINF:-1,CBSAction
 http://81.92.105.134:5555/pl.m3u8?channel=303&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,CITV
 http://81.92.105.134:5555/pl.m3u8?channel=304&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,ITV
 http://81.92.105.134:5555/pl.m3u8?channel=305&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,movies 4 men
-http://81.92.105.134:5555/pl.m3u8?channel=306&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,movies+1
-http://81.92.105.134:5555/pl.m3u8?channel=307&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
-#EXTINF:-1,Sky News Intl
-http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,CNBC Europe
-http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:-1,Bloomberg Europe TV
-http://81.92.105.134:5555/pl.m3u8?channel=312&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-
-#EXTINF:0,CNN USA HD
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,CNN USA SD
-http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Crime & Investigation
-http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
-#EXTINF:0,CW 44 HD
-http://93.174.95.125:1935/edge/_definst_/fvksu1sp51ijtyd/playlist.m3u8?wowzasessionid=1419879994
-#EXTINF:0,CW 44 SD
-http://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj/playlist.m3u8?wowzasessionid=1419903868
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-#EXTINF:0,Disney Channel
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN SD
-http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
-#EXTINF:0,ESPN 2 HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,ESPN 2 SD
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-#EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,FOX 45 HD
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
-#EXTINF:0,FOX 45 SD
-http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:0,FOX News SD
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Golf Channel HD
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
-#EXTINF:0,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel (Europe)
-http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
-#EXTINF:0,History Channel (USA)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,I.D.
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:0,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,Nat GEO SD
-http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,NBC SD
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
-#EXTINF:0,NBC Sports Network HD
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,NBC Sports Network SD
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,Nickelodeon HD
-http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
-#EXTINF:0,Nickelodeon SD
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
-#EXTINF:0,Science
-http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Showtime SD
-http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Spike
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:0,SyFy HD
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,tbs
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-#EXTINF:0,TLC
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,TNT SD
-http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:0,Travel Channel SD
-http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
-#EXTINF:0,TruTV
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,TV Land
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-#EXTINF:0,VH-1
-http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560
-
-#EXTINF:-1 tvg-logo="amc.png" tvg-id="AMC" group-title="U.S.A",[COLOR lightgreen][I][B] AMC NY [/B][/I][/COLOR]
-rtmpe://rtmp.zerocast.tv/goLive playpath=TfRQx7deUAuncJwM0472m swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 live=1swfVfy=1 pageUrl=http://zerocast.tv/ token=OOG17t.x#K9Vh#|
- 
-#EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network" group-title="U.S.A",[COLOR lightgreen][I][B] Cartoon Network [/B][/I][/COLOR]
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="cbs.png" tvg-id="CBS" group-title="U.S.A",[COLOR lightgreen][I][B] CBS [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048 timeout=15
-
-#EXTINF:-1 tvg-logo="id.png" tvg-id="Investigation Discovery" group-title="U.S.A",[COLOR lightgreen][I][B] Investergation Discovery [/COLOR][/I][/B]
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/playlist.m3u8?wowzasessionid=1420168729
- 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
- 
-#EXTINF:-1 tvg-id="NBC" tvg-logo="nbc.png" group-title="U.S.A",[COLOR lightgreen][I][B] NBC [/B][/I][/COLOR]
-rtmpe://stream.hdcast.me/goLive playpath=bcndnn_6wn6mfk4 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://hdcast.me/embedplayer.php?width=620&height=470&id=bcndnn&autoplay=true&strech=exactfit token=OOG17t.x#K9Vh#|
- 
-#EXTINF:-1 tvg-id="The Oprah Winfrey Network" tvg-logo="own.png" group-title="U.S.A",[COLOR lightgreen][I][B] Oprah Winfrey Network [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
- 
- 
-#EXTINF:-1 tvg-id="Hallmark" tvg-logo="hallmark.png" group-title="U.S.A",[COLOR lightgreen][I][B] Hallmark [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
- 
-#EXTINF:-1 tvg-id="History" tvg-logo="history.png" group-title="U.S.A",[COLOR lightgreen][I][B] History Channel [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
- 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
-rtmpe://rtmp.zerocast.tv/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
- 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
- 
-#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
- 
-#EXTINF:-1 tvg-logo="fxhd.png" tvg-id="FX" group-title="U.S.A",[COLOR lightgreen][I][B] FX [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
- 
-#EXTINF:-1 tvg-logo="fox.png" tvg-id="FOX" group-title="U.S.A",[COLOR lightgreen][I][B] FOX [/B][/I][/COLOR]
-rtmpe://rtmp.zerocast.tv/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
- 
-#EXTINF:-1 tvg-logo="food.png" tvg-id="Food Network" group-title="U.S.A",[COLOR lightgreen][I][B] Food Network [/B][/I][/COLOR]
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-
-#EXTINF:0,BBC One
-http://82.135.224.134:80/udp/239.100.3.1:1234
-#EXTINF:0,BBC Two England
-http://82.135.224.134:80/udp/239.100.3.3:1234
-#EXTINF:0,BBC Three
-http://82.135.224.134:80/udp/239.100.3.4:1234
-#EXTINF:-1, Cbbeebies / BBC 3
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8
-#EXTINF:0,BBC Four
-http://82.135.224.134:80/udp/239.100.3.5:1234
 #EXTINF:-1, ITV 
 http://81.92.105.134:5555/pl.m3u8?channel=089&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1, ITV2
@@ -268,24 +38,44 @@ http://81.92.105.134:5555/pl.m3u8?channel=094&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM
 http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 #EXTINF:0, E4 HD
 http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:0,DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-#EXTINF:0,CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,MTV Music HD
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
-#EXTINF:-1,Cartoon network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0, E4 HD
-http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:0,FILM 4 (UK)
-http://teleboy.customers.cdn.iptv.ch/4023/2290000/index.m3u8
+#EXTINF:-1,Sky News Intl
+http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CNBC Europe
+http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:0,BT Sports 1 HD
+rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 1 SD
+rtmp://95.211.168.65:1935/mytv/btsd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 2 HD
+rtmp://95.211.168.65:1935/mytv/bthd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 2 SD
+rtmp://95.211.168.65:1935/mytv/btsd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 1 HD
+rtmp://95.211.168.65:1935/mytv/skyhd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 1 SD
+rtmp://95.211.168.65:1935/mytv/skysd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 2 HD
+rtmp://95.211.168.65:1935/mytv/skyhd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 2 SD
+rtmp://95.211.168.65:1935/mytv/skysd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 3 HD
+rtmp://95.211.168.65:1935/mytv/skyhd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 3 SD
+rtmp://95.211.168.65:1935/mytv/skysd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 4 HD
+rtmp://95.211.168.65:1935/mytv/skyhd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 4 SD
+rtmp://95.211.168.65:1935/mytv/skysd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 5 HD
+rtmp://95.211.168.65:1935/mytv/skyhd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 5 SD
+rtmp://95.211.168.65:1935/mytv/skysd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports F1 SD
+rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports News HD
+rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports News SD
+rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
 #EXTINF:-1, CHELSEA TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
 #EXTINF:-1, MANCHESTER CITY TV
@@ -294,6 +84,15 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
 #EXTINF:-1, Bundesliga
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/99.m3u8
+#EXTINF:-1,DeluxeMusic
+http://81.92.105.134:5555/pl.m3u8?channel=16&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1 tvg-logo="cartoon.png" tvg-id="Cartoon Network" group-title="U.S.A",[COLOR lightgreen][I][B] Cartoon Network [/B][/I][/COLOR]
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="hbo.png" tvg-id="HBO" group-title="U.S.A",[COLOR lightgreen][I][B] HBO [/B][/I][/COLOR]
+rtmpe://rtmp.zerocast.tv/goLive playpath=qKmzUdRhBM73njBBDFyL swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+#EXTINF:-1 tvg-logo="fox.png" tvg-id="FOX" group-title="U.S.A",[COLOR lightgreen][I][B] FOX [/B][/I][/COLOR]
+rtmpe://rtmp.zerocast.tv/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.ibrod.tv/player/jwplayer.flash.swf flashver=WIN/16,0,0,305 timeout=15 token=OOG17t.x#K9Vh#| live=1swfVfy=1 pageUrl=http://zerocast.tv/
+
 #EXTINF:-1, Nick
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/97.m3u8
 #EXTINF:-1,
