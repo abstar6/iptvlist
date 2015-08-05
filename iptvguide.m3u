@@ -95,21 +95,17 @@ rtmpe://rtmp.zerocast.tv/goLive playpath=9pxGCtP3aEnJYgoBFFH8 swfUrl=http://cdn.
 
 #EXTINF:-1, Nick
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/97.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/95.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/94.m3u8
-#EXTINF:-1,
+#EXTINF:-1, Khan Academy
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/93.m3u8
-#EXTINF:-1,
+#EXTINF:-1, Reality TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/92.m3u8
 #EXTINF:-1, OWCAST TV
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/91.m3u8
-#EXTINF:-1,
+#EXTINF:-1, Cars USA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/90.m3u8
 #EXTINF:-1, Disney Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/89.m3u8
-#EXTINF:-1,
+#EXTINF:-1, TED TALK
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/88.m3u8
 #EXTINF:-1, Mydamn Channel
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/87.m3u8
@@ -119,8 +115,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/86.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/85.m3u8
 #EXTINF:-1,  TNT
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/84.m3u8
-#EXTINF:-1,
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/83.m3u8
 #EXTINF:-1, TBS
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/82.m3u8
 #EXTINF:-1, StarMusic
