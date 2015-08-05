@@ -1,5 +1,97 @@
 #EXTM3U
 
+#EXTINF:0,BT Sports 1 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 1 HD 2
+rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 1 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/btsd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 2 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/bthd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,BT Sports 2 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/btsd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 1 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 1 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 2 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 2 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 3 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 3 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 4 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 4 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 5 HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports 5 SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports F1 SD
+ffrt4 rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports News HD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+#EXTINF:0,Sky Sports News SD
+ffrt4 rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
+
+#EXTINF:-1,Disney Channel
+http://81.92.105.134:5555/pl.m3u8?channel=15&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DeluxeMusic
+http://81.92.105.134:5555/pl.m3u8?channel=16&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,DMAX
+http://81.92.105.134:5555/pl.m3u8?channel=17&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=21&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Eurosport
+http://81.92.105.134:5555/pl.m3u8?channel=24&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Bloomberg
+http://81.92.105.134:5555/pl.m3u8?channel=26&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=27&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,NewChannel
+http://81.92.105.134:5555/pl.m3u8?channel=28&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Nickelodeon
+http://81.92.105.134:5555/pl.m3u8?channel=35&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+
+#EXTINF:-1,BBC One Lon
+http://81.92.105.134:5555/pl.m3u8?channel=141&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC Two Eng
+http://81.92.105.134:5555/pl.m3u8?channel=142&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC Entertainment Europe
+http://81.92.105.134:5555/pl.m3u8?channel=143&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC World
+http://81.92.105.134:5555/pl.m3u8?channel=144&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,BBC One NI
+http://81.92.105.134:5555/pl.m3u8?channel=145&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CBBC
+http://81.92.105.134:5555/pl.m3u8?channel=146&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+
+#EXTINF:-1,CBeebies
+http://81.92.105.134:5555/pl.m3u8?channel=300&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Horse & Country
+http://81.92.105.134:5555/pl.m3u8?channel=301&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+
+#EXTINF:-1,CBSAction
+http://81.92.105.134:5555/pl.m3u8?channel=303&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CITV
+http://81.92.105.134:5555/pl.m3u8?channel=304&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,ITV
+http://81.92.105.134:5555/pl.m3u8?channel=305&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,movies 4 men
+http://81.92.105.134:5555/pl.m3u8?channel=306&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,movies+1
+http://81.92.105.134:5555/pl.m3u8?channel=307&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+
+#EXTINF:-1,Sky News Intl
+http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,CNBC Europe
+http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+#EXTINF:-1,Bloomberg Europe TV
+http://81.92.105.134:5555/pl.m3u8?channel=312&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
+
 #EXTINF:0,CNN USA HD
 http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
 #EXTINF:0,CNN USA SD
