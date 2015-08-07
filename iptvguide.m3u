@@ -42,49 +42,8 @@ http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5
 http://81.92.105.134:5555/pl.m3u8?channel=310&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #EXTINF:-1,CNBC Europe
 http://81.92.105.134:5555/pl.m3u8?channel=311&key=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
-#EXTINF:0,BT Sports 1 HD
-rtmp://95.211.168.65:1935/mytv/bthd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 1 SD
-rtmp://95.211.168.65:1935/mytv/btsd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 2 HD
-rtmp://95.211.168.65:1935/mytv/bthd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,BT Sports 2 SD
-rtmp://95.211.168.65:1935/mytv/btsd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 1 HD
-rtmp://95.211.168.65:1935/mytv/skyhd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 1 SD
-rtmp://95.211.168.65:1935/mytv/skysd01?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 2 HD
-rtmp://95.211.168.65:1935/mytv/skyhd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 2 SD
-rtmp://95.211.168.65:1935/mytv/skysd02?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 3 HD
-rtmp://95.211.168.65:1935/mytv/skyhd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 3 SD
-rtmp://95.211.168.65:1935/mytv/skysd03?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 4 HD
-rtmp://95.211.168.65:1935/mytv/skyhd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 4 SD
-rtmp://95.211.168.65:1935/mytv/skysd04?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 5 HD
-rtmp://95.211.168.65:1935/mytv/skyhd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports 5 SD
-rtmp://95.211.168.65:1935/mytv/skysd05?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports F1 SD
-rtmp://95.211.168.65:1935/local/skynews?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports News HD
-rtmp://95.211.168.65:1935/mytv/skyhdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:0,Sky Sports News SD
-rtmp://95.211.168.65:1935/mytv/skysdf1?tkid=fF4lKeKU&user=mag-test15-mag@infusum.tv
-#EXTINF:-1, CHELSEA TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:-1, MANCHESTER CITY TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/122.m3u8
-#EXTINF:-1, Liverpool FC TV
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
-#EXTINF:-1, Bundesliga
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/99.m3u8
-#EXTINF:0,Updated:8/06-ABC NEWS
+
+#EXTINF:0, ABC NEWS
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, CNBC
 http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
