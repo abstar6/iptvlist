@@ -72,6 +72,27 @@ http://37.187.160.187:8000/live/ressler/skype/109.ts
 #EXTINF:-1,. More4 UK
 http://37.187.160.187:8000/live/ressler/skype/64.ts
 
+#EXTINF:-0, BT SPORT 1 
+rtmp://37.187.130.88:1935/bt1streamer1
+#EXTINF:-0, BT SPORT 2 
+rtmp://37.187.130.88:1935/bt2streamer1
+#EXTINF:-0, ESPN 
+rtmp://37.187.130.88:1935/espn1streamer1
+#EXTINF:-0, ESPN 2 
+rtmp://37.187.130.88:1935/espn2streamer1
+#EXTINF:-0, SKYSPORT 1 
+rtmp://37.187.130.88:1935/skysport1vibe
+#EXTINF:-0, SKYSPORT 2 
+rtmp://37.187.130.88:1935/skysport2vibe
+#EXTINF:-0, SKYSPORT 3 
+rtmp://37.187.130.88:1935/skysport3vibe
+#EXTINF:-0, SKYSPORT 4 
+rtmp://37.187.130.88:1935/skysport4vibe
+#EXTINF:-0, SKYSPORT 5 
+rtmp://37.187.130.88:1935/skysport5vibe
+#EXTINF:-0, FOX SPORT 1 
+rtmp://37.187.130.88:1935/foxsports1streamer1
+
 #EXTINF:-1,. Drama
 http://37.187.160.187:8000/live/ressler/skype/68.ts
 #EXTINF:-1,. Discovery Science UK
