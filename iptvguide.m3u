@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,. CBeebies
+#EXTINF:-1, CBeebies
 http://37.187.160.187:8000/live/ressler/skype/129.ts
-#EXTINF:-1,. BBC One UK
+#EXTINF:-1, BBC One UK
 http://37.187.160.187:8000/live/ressler/skype/53.ts
 #EXTINF:-1,. BBC Two UK
 http://37.187.160.187:8000/live/ressler/skype/54.ts
