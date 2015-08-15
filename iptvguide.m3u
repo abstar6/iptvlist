@@ -183,3 +183,52 @@ rtmp://80.82.64.140:443/liverepeater playpath=4 pageUrl=http://popeoftheplayers.
 rtmp://80.82.64.140:443/liverepeater playpath=5 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:-1, BT sport 1 ESPN
 rtmp://80.82.64.140:443/liverepeater playpath=11 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1,_UK: Box Nation HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2313.ts
+#EXTINF:-1,_UK: BTSports 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2311.ts
+#EXTINF:-1,_UK: BTSports 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2312.ts
+#EXTINF:-1,_UK: Channel4
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2327.ts
+#EXTINF:-1,_UK: Chelsea FC HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2315.ts
+#EXTINF:-1, Discovery HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2326.ts
+#EXTINF:-1, Discovery History HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2325.ts
+
+#EXTINF:-1, ESPN HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2310.ts
+#EXTINF:-1, EuroSport 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2309.ts
+
+#EXTINF:-1, Nat Geo HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2318.ts
+#EXTINF:-1,: Nat Geo Wild HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2317.ts
+#EXTINF:-1,: Premier Sports HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2308.ts
+#EXTINF:-1, Racing UK HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2307.ts
+
+#EXTINF:-1,Setanta Sports Ireland HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2316.ts
+
+#EXTINF:-1,: Sky News HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2291.ts
+
+#EXTINF:-1,_UK: Sky Sports 1 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2282.ts
+#EXTINF:-1,_UK: Sky Sports 2 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2283.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2284.ts
+#EXTINF:-1,_UK: Sky Sports 4 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2285.ts
+#EXTINF:-1,: Sky Sports 5 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2286.ts
+#EXTINF:-1,_UK: Sky Sports F1 HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2287.ts
+#EXTINF:-1,_UK: Sky Sports News HD
+http://iptvswarbejo.dyndns.tv:80/live/Persian/skype100/2281.ts
