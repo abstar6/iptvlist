@@ -33,7 +33,6 @@ rtmp://109.200.1.82:1935/tes/gold.stream?e607b5b743e1842ee50e1556bbf3ae42
 rtmp://109.200.1.82:1935/tes/quest.stream?e607b5b743e1842ee50e1556bbf3ae42
 #EXTINF:0,Flava
 rtmp://109.200.1.82:1935/tes/flava.stream?e607b5b743e1842ee50e1556bbf3ae42
-#EXTM3U
 #EXTINF:0,Sky 1
 http://84.232.5.115/liveedge3/sky1.stream/chunklist_w706297820.m3u8
 #EXTINF:0,Sky 2
