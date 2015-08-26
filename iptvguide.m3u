@@ -33,6 +33,26 @@ http://37.187.160.187:8000/live/ressler/skype/102.m3u8
 http://37.187.160.187:8000/live/ressler/skype/79.m3u8
 #EXTINF:-1,. Sky 1 UK
 http://37.187.160.187:8000/live/ressler/skype/77.m3u8
+#EXTINF:0,Sky Sports News
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/16.m3u8
+#EXTINF:0,Sky Sports 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/11.m3u8
+#EXTINF:0,Sky Sports 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/12.m3u8
+#EXTINF:0,Sky Sports 3
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/13.m3u8
+#EXTINF:0,Sky Sports 4
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/14.m3u8
+#EXTINF:0,Sky Sports 5
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/15.m3u8
+#EXTINF:0,Sky Sports F1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/17.m3u8
+#EXTINF:0,BT Sport 1
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/20.m3u8
+#EXTINF:0,BT Sport 2
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/21.m3u8
+#EXTINF:0,BT Sport Europe
+http://5.196.82.222:8000/live/bensportpackage/kIEwGfrvIm/1074.m3u8
 #EXTINF:-1,. RTE Two UK
 http://37.187.160.187:8000/live/ressler/skype/73.m3u8
 #EXTINF:-1,. RTE One UK
