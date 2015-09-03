@@ -414,3 +414,22 @@ http://167.114.156.30:1935/flu555/_definst_/golf/playlist.m3u8?token=
 http://167.114.157.40:1935/flu555/_definst_/jtennis/playlist.m3u8?token=
 #EXTINF:-1,NFLNetworkHD
 http://192.99.19.98:1935/flu555/_definst_/jnfl/playlist.m3u8?token=
+
+#EXTINF:-1,Channel 1
+http://80.80.160.168/live/1/live.m3u8   
+#EXTINF:-1,Channel 2
+http://80.80.160.168/live/2/live.m3u8   
+#EXTINF:-1,Channel 3
+http://80.80.160.168/live/3/live.m3u8   
+#EXTINF:-1,Channel 4
+http://80.80.160.168/live/4/live.m3u8    
+#EXTINF:-1,Channel 5
+http://80.80.160.168/live/5/live.m3u8    
+#EXTINF:-1,Channel 6
+http://80.80.160.168/live/6/live.m3u8   
+#EXTINF:-1,Channel 7
+http://80.80.160.168/live/7/live.m3u8    
+#EXTINF:-1,Channel 8
+http://80.80.160.168/live/8/live.m3u8   
+#EXTINF:-1,Channel 9
+http://80.80.160.168/live/9/live.m3u8
