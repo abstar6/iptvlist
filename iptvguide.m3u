@@ -165,9 +165,12 @@ http://xrxs.net/video/live-p12oreg-1164.m3u8
  
 #EXTINF:-1,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
- 
+
 #EXTINF:-1, [COLOR yellow]--- MUSIC ---[/COLOR]
- 
+
+#EXTINF:-1,HD-ONE HIP HOP MUSIC
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C03_AONE/variant.m3u8?version=2
+
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
  
