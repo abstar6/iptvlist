@@ -1,5 +1,58 @@
 #EXTM3U
 
+#EXTINF:-1,: Sky Sports 5
+rtmp://$OPT:rtmp-raw=rtmp://80.82.65.162/live playpath=ss5 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss5&vw=600&vh=450
+#EXTINF:-1,: Sky Sports 4
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.35/live playpath=ss4 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss4&vw=600&vh=450
+#EXTINF:-1,: Sky Sports 3
+rtmp://$OPT:rtmp-raw=rtmp://89.248.169.50/live playpath=ss3 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss3&vw=600&vh=450
+#EXTINF:-1,: Sky Sports 2
+rtmp://$OPT:rtmp-raw=rtmp://80.82.78.165/live playpath=sss2 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=sss2&vw=600&vh=450
+#EXTINF:-1,: Sky Sports 1
+rtmp://$OPT:rtmp-raw=rtmp://80.82.65.162/live playpath=ss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf live=1 pageUrl=http://www.yocast.tv/embed.php?live=ss1&vw=600&vh=450
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Motorsport 7 Channel Australia
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1, SPORTV
+http://live-cdn.direct-stream.org:1935/liverepeat/201020/livestream.m3u8
+
+#EXTINF:-1 ,SPORT TIME TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+#EXTINF:-1, TERRA ESPORTES
+http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8?BRASILIPTV
+
+#EXTINF:-1,Todo Deportes
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+
+Â #EXTINF:-1,SPORTTV 1
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal1.m3u8
+
+#EXTINF:-1,SPORTTV 2
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal2.m3u8
+
+#EXTINF:-1,SPORTTV 3
+http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/portugal3.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 (uk)
+http://lihattv.toh.info/jhos/beib2.m3u8
+
+#EXTINF:-1, BEIN SPORT 3 (uk)
+http://180.250.29.12/jhos/beib3_3/1421536739/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 (uk)
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+
+#EXTINF:-1, BEIN SPORT 1 (uk)
+http://lihattv.toh.info/jhos/beib1.m3u8
+
+#EXTINF:-1, BEIN SPORT 2 (uk)
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+
 #EXTINF:-1,BBC World News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1,ABC News (US)
