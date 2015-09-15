@@ -1,29 +1,38 @@
 #EXTM3U
 
-#EXTINF:0, SkySport 1 HD
-http://80.82.78.165:1935/live/ss1/live.m3u8
-#EXTINF:0, SkySport 2 HD
-http://80.82.78.165:1935/live/ss2/live.m3u8
-#EXTINF:0, SkySport 3 HD
-http://80.82.78.165:1935/live/sss3/live.m3u8
-#EXTINF:0, SkySport 4 HD
-http://80.82.78.165:1935/live/sss4/live.m3u8
-#EXTINF:0, SkySport 5 HD
-http://80.82.78.165:1935/live/sss5/live.m3u8
-#EXTINF:0, SkySport f1 HD
-http://80.82.78.165:1935/live/sssf1/live.m3u8
-#EXTINF:0, Bt 1
-http://80.82.78.165:1935/live/bts1/live.m3u8
-#EXTINF:0, Bt 2
-http://80.82.78.165:1935/live/xbt2/live.m3u8
-#EXTINF:0, Eurosport 1 uk
-http://80.82.78.165:1935/live/weuro1/live.m3u8
-#EXTINF:0, Eurosport 2 HD uk
-http://80.82.78.165:1935/live/euro2/live.m3u8
-#EXTINF:0, BOX NATION
-http://80.82.78.165:1935/live/box/live.m3u8
-#EXTINF:0, ESPN USA
-http://80.82.78.165:1935/live/espnus/live.m3u8
+#EXTINF:-1, SKY SPORTS 1
+http://37.187.248.101:8080/skysp1.stream/index.m3u8
+#EXTINF:-1, SKY SPORTS 2
+http://37.187.248.101:8080/skysp2.stream/index.m3u8
+#EXTINF:-1, SKY SPORTS 3
+http://37.187.248.101:8080/skysp3.stream/index.m3u8
+#EXTINF:-1, SKY SPORTS 4
+http://37.187.248.101:8080/skysp4.stream/index.m3u8
+#EXTINF:-1, SKY SPORTS 5
+http://37.187.248.101:8080/skysp5.stream/index.m3u8
+#EXTINF:-1, SKY SPORTS F1
+http://37.187.248.101:8080/skyspf1.stream/index.m3u8
+#EXTINF:-1,SKY SPORTS News
+http://37.187.248.101:8080/skynews.stream/index.m3u8
+#EXTINF:-1, FOX SPORT 1
+http://37.187.248.101:8080/foxsp1.stream/index.m3u8
+#EXTINF:-1, FOX SPORT 2
+http://37.187.248.101:8080/foxsp2.stream/index.m3u8
+#EXTINF:-1, CHELSEA TV
+http://37.187.248.101:8080/chelsea.stream/index.m3u8
+#EXTINF:-1, MUTV
+http://37.187.248.101:8080/mutv.stream/index.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://37.187.248.101:8080/disney.stream/index.m3u8
+#EXTINF:-1, SKY LIVING
+http://37.187.248.101:8080/skyliving.stream/index.m3u8
+#EXTINF:-1, SKY ATLANTIC
+http://37.187.248.101:8080/skyatlant...eam/index.m3u8
+#EXTINF:-1, SKY 1
+http://37.187.248.101:8080/sky1.stream/index.m3u8
+#EXTINF:-1, SKY 2
+http://37.187.248.101:8080/sky2.stream/index.m3u8
+
 
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
