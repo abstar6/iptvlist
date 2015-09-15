@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1, BBC 1
+http://37.187.248.101:8080/bbc1.stream/index.m3u8
+#EXTINF:-1, BBC 2
+http://37.187.248.101:8080/bbc2.stream/index.m3u8
+#EXTINF:-1, BBC 3
+http://37.187.248.101:8080/bbc3.stream/index.m3u8
+#EXTINF:-1, BBC 4
+http://37.187.248.101:8080/bbc4.stream/index.m3u8
+#EXTINF:-1, İTV 1
+http://37.187.248.101:8080/itv1.stream/index.m3u8
+#EXTINF:-1, İTV 2
+http://37.187.248.101:8080/itv2.stream/index.m3u8
+#EXTINF:-1, İTV 3
+http://37.187.248.101:8080/itv3.stream/index.m3u8
+#EXTINF:-1, İTV 4
+http://37.187.248.101:8080/itv4.stream/index.m3u8
+
 #EXTINF:-1, SKY SPORTS 1
 http://37.187.248.101:8080/skysp1.stream/index.m3u8
 #EXTINF:-1, SKY SPORTS 2
