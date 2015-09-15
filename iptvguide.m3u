@@ -22,6 +22,160 @@ http://37.187.248.101:8080/foxsp2.stream/index.m3u8
 http://37.187.248.101:8080/chelsea.stream/index.m3u8
 #EXTINF:-1, MUTV
 http://37.187.248.101:8080/mutv.stream/index.m3u8
+
+#EXTINF:-1, DISNEY CHANNEL
+http://37.187.248.101:8080/disney.stream/index.m3u8
+#EXTINF:-1, SKY LIVING
+http://37.187.248.101:8080/skyliving.stream/index.m3u8
+#EXTINF:-1, SKY ATLANTIC
+http://37.187.248.101:8080/skyatlant...eam/index.m3u8
+#EXTINF:-1, SKY 1
+http://37.187.248.101:8080/sky1.stream/index.m3u8
+#EXTINF:-1, SKY 2
+http://37.187.248.101:8080/sky2.stream/index.m3u8
+#EXTINF:-1, bbc1
+http://37.187.248.101:8080/bbc1.stream/index.m3u8
+#EXTINF:-1, BBC 2
+http://37.187.248.101:8080/bbc2.stream/index.m3u8
+#EXTINF:-1, bbc3
+http://37.187.248.101:8080/bbc3.stream/index.m3u8
+#EXTINF:-1, bbc4
+http://37.187.248.101:8080/bbc4.stream/index.m3u8
+#EXTINF:-1, MOTORS TV
+http://37.187.248.101:8080/motorstv.stream/index.m3u8
+#EXTINF:-1, h2
+http://37.187.248.101:8080/h2.stream/index.m3u8
+#EXTINF:-1, rte
+http://37.187.248.101:8080/rte1.stream/index.m3u8
+#EXTINF:-1, rte2
+http://37.187.248.101:8080/rte2.stream/index.m3u8
+#EXTINF:-1, SCUZZ
+http://37.187.248.101:8080/livingit.stream/index.m3u8
+#EXTINF:-1, LIVING IT
+http://37.187.248.101:8080/livingit.stream/index.m3u8
+#EXTINF:-1, WATCH
+http://37.187.248.101:8080/watch.stream/index.m3u8
+#EXTINF:-1, UNIVERSAL
+http://37.187.248.101:8080/universal.stream/index.m3u8
+#EXTINF:-1, FOX NEWS
+http://37.187.248.101:8080/foxnews.stream/index.m3u8
+#EXTINF:-1, CHELSEA TV
+http://37.187.248.101:8080/chelsea.stream/index.m3u8
+#EXTINF:-1, MUTV
+http://37.187.248.101:8080/mutv.stream/index.m3u8
+#EXTINF:-1, EDEN
+http://37.187.248.101:8080/eden.stream/index.m3u8
+#EXTINF:-1, MTV MUSIC
+http://37.187.248.101:8080/mtvmusic.stream/index.m3u8
+#EXTINF:-1, MTV BASE
+http://37.187.248.101:8080/mtvbase.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SHOWCASE
+http://37.187.248.101:8080/skymovshowcase.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES FAMILY
+http://37.187.248.101:8080/skymovfamily.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES DISNEY
+http://37.187.248.101:8080/skymovdisney.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES MODERN GREATS
+http://37.187.248.101:8080/skymovgreats.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES THRILLER
+http://37.187.248.101:8080/skymovthriller.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SCI FI
+http://37.187.248.101:8080/skymovscifi.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES SELECT
+http://37.187.248.101:8080/skymovselect.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES DRAMA
+http://37.187.248.101:8080/skymovdrama.stream/index.m3u8
+#EXTINF:-1, FLAVA
+http://37.187.248.101:8080/flava.stream/index.m3u8
+#EXTINF:-1, MORE 4
+http://37.187.248.101:8080/more4.stream/index.m3u8
+#EXTINF:-1, 4 SEVEN
+http://37.187.248.101:8080/4seven.stream/index.m3u8
+#EXTINF:-1, ITV BE
+http://37.187.248.101:8080/itvbe.stream/index.m3u8
+#EXTINF:-1, SKY ARTS
+http://37.187.248.101:8080/skyarts.stream/index.m3u8
+#EXTINF:-1, YESTERDAY
+http://37.187.248.101:8080/yesterday.stream/index.m3u8
+#EXTINF:-1, PICK
+http://37.187.248.101:8080/picktv.stream/index.m3u8
+#EXTINF:-1, DAVE
+http://37.187.248.101:8080/dave.stream/index.m3u8
+#EXTINF:-1, HISTORY CHANNEL
+http://37.187.248.101:8080/history.stream/index.m3u8
+#EXTINF:-1, PREMIER SPORTS
+http://37.187.248.101:8080/premier.stream/index.m3u8
+#EXTINF:-1, GOLD
+http://37.187.248.101:8080/gold.stream/index.m3u8
+#EXTINF:-1, NICK UK
+http://37.187.248.101:8080/nick.stream/index.m3u8
+#EXTINF:-1, AT THE RACES
+http://37.187.248.101:8080/attheraces.stream/index.m3u8
+#EXTINF:-1, RACING UK
+http://37.187.248.101:8080/racinguk.stream/index.m3u8
+#EXTINF:-1, FOX UK
+http://37.187.248.101:8080/fox.stream/index.m3u8
+#EXTINF:-1, SYFY UK
+http://37.187.248.101:8080/syfy.stream/index.m3u8
+#EXTINF:-1, ALIBI
+http://37.187.248.101:8080/alibi.stream/index.m3u8
+#EXTINF:-1, DISNEY CHANNEL
+http://37.187.248.101:8080/disney.stream/index.m3u8
+#EXTINF:-1, SKY LIVING
+http://37.187.248.101:8080/skyliving.stream/index.m3u8
+#EXTINF:-1, SKY ATLANTIC
+http://37.187.248.101:8080/skyatlantic.stream/index.m3u8
+#EXTINF:-1, National Geographic uk
+http://37.187.248.101:8080/natgeo.stream/index.m3u8
+#EXTINF:-1, National Geographic wild uk
+http://37.187.248.101:8080/natgeowild.stream/index.m3u8
+#EXTINF:-1, SKY MOVIES COMEDY
+http://37.187.248.101:8080/skymovcom.stream/index.m3u8
+#EXTINF:-1, Movies 4 Men uk
+http://37.187.248.101:8080/movies4men.stream/index.m3u8
+#EXTINF:-1, London live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1, Really uk
+http://37.187.248.101:8080/really.stream/index.m3u8
+#EXTINF:-1, Drama uk
+http://37.187.248.101:8080/drama.stream/index.m3u8
+#EXTINF:-1, TV3 uk
+http://37.187.248.101:8080/tv3.stream/index.m3u8
+#EXTINF:-1, Quest uk
+http://37.187.248.101:8080/quest.stream/index.m3u8
+#EXTINF:-1, Challenge uk
+http://37.187.248.101:8080/challenge.stream/index.m3u8
+#EXTINF:-1, DMax uk
+http://37.187.248.101:8080/dmax.stream/index.m3u8
+#EXTINF:-1, stv uk
+http://37.187.248.101:8080/stv.stream/index.m3u8
+#EXTINF:-1, s4c uk
+http://37.187.248.101:8080/s4c.stream/index.m3u8
+#EXTINF:-1, CBS Reality uk
+http://37.187.248.101:8080/cbsreality.stream/index.m3u8
+#EXTINF:-1, Psychic Today
+http://204.107.26.252:1935/live/1711.high.stream/index.m3u8
+#EXTINF:-1, SKY NEWS
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1, Boomerang uk
+http://37.187.248.101:8080/boomerang.stream/index.m3u8
+#EXTINF:-1, Cartoon network uk
+http://37.187.248.101:8080/cartoonnet.stream/index.m3u8
+#EXTINF:-1, rte jr uk
+http://37.187.248.101:8080/rtejr.stream/index.m3u8
+#EXTINF:-1, Baby TV
+http://fe-mos.svc.iptv.rt.ru/hls/CH_C01_BABYTV/variant.m3u8?version=2
+#EXTINF:-1, BEIN 1 english
+http://lihattv.toh.info/jhos/beib1_5/-/playlist.m3u8
+#EXTINF:-1, BEIN 2 english
+http://lihattv.toh.info/jhos/beib2_5/-/playlist.m3u8
+#EXTINF:-1, BEIN PREMIERE english
+http://lihattv.toh.info/jhos/beib3_5/-/playlist.m3u8
+#EXTINF:-1, SKY SPORTS News uk
+http://37.187.248.101:8080/skyspnews.stream/index.m3u8
+#EXTINF:-1, BT Sport ESPN uk
+http://37.187.248.101:8080/espn.stream/index.m3u8
+
 #EXTINF:-1, DISNEY CHANNEL
 http://37.187.248.101:8080/disney.stream/index.m3u8
 #EXTINF:-1, SKY LIVING
