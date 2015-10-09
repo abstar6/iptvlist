@@ -13,6 +13,19 @@ http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asg!1dkhasg!54754
 #EXTINF:-1,ITV 4
 http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asg!1dkhasg!54754
 
+#EXTINF:0, SkySport 1
+http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
+#EXTINF:0, SkySport2
+http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
+#EXTINF:0, SkySport 3
+http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
+#EXTINF:0, SkySport 4
+http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
+#EXTINF:0, SkySport 5
+http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
+#EXTINF:0, SkySport F1
+http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
+
 #EXTINF:-1,RTE One
 http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asg!1dkhasg!54754
 #EXTINF:-1,RTE Two [HD]
