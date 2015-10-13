@@ -51,6 +51,18 @@ http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarde
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
 #EXTINF:-1, Big Ten Network
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:0,CBS 2
+HTTP://192.99.147.19:5808/cbshdguys/playlist.m3u8
+#EXTINF:0,NBC 4
+http://192.99.147.19:5808/nbchdguys/index.m3u8
+#EXTINF:0,ABC 7
+http://192.99.147.19:5808/abchdguys/playlist.m3u8
+#EXTINF:0,FOX 5
+http://192.99.147.19:5808/foxhdguys/index.m3u8?
+#EXTINF:0,ESPN
+http://192.99.147.19:5808/espnhdguys/playlist.m3u8
+#EXTINF:0,FOX SPORTS 1
+http://192.99.147.19:5808/foxsports/playlist.m3u8
 #EXTINF:0, Cartoon Network
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:-1, CNN
