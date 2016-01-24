@@ -1,225 +1,90 @@
 #EXTM3U
 
-#EXTINF:-1,BBC One [HD]
-http://stream.balticbox.tv:8080/HDBBC1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BBC Two [HD]
-http://stream.balticbox.tv:8080/HDBBC2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV
-http://stream.balticbox.tv:8080/ITV1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 2
-http://stream.balticbox.tv:8080/ITV2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 3
-http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 4
-http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asg!1dkhasg!54754
-
-#EXTINF:-0,Sky Sport 1
-http://89.248.172.57:1935/edge/_definst_/9ddlpiijjci12o9/playlist.m3u8?
-#EXTINF:-0,Sky Sport 2
-http://89.248.172.57:1935/edge/_definst_/on39ol6in4f2ewp/playlist.m3u8?
-#EXTINF:-0,Sky Sport 3
-http://89.248.172.57:1935/edge/_definst_/pdqdnbyfwtzknat/playlist.m3u8?
-#EXTINF:-0,Sky Sport 4
-http://89.248.172.57:1935/edge/_definst_/21ajqprn56aebp3/playlist.m3u8?
-#EXTINF:-0,Sky Sport 5
-http://89.248.172.57:1935/edge/_definst_/2qjxgeic3x5rkdu/playlist.m3u8?
-
-#EXTINF:0, SkySport 1
-http://195.154.226.186:1935/livepp7/skysports1lsh/playlist.m3u8
-#EXTINF:0, SkySport2
-http://195.154.226.186:1935/livepp7/skysports2lsh/playlist.m3u8
-#EXTINF:0, SkySport 3
-http://195.154.226.186:1935/livepp7/skysports3lsh/playlist.m3u8
-#EXTINF:0, SkySport 4
-http://195.154.226.186:1935/livepp7/skysports4lsh/playlist.m3u8
-#EXTINF:0, SkySport 5
-http://195.154.226.186:1935/livepp7/skysports5lsh/playlist.m3u8
-#EXTINF:0, SkySport F1
-http://195.154.226.186:1935/livepp7/vskysf1lsh/playlist.m3u8
-
-#EXTINF:-1,RTE One
-http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE Two [HD]
-http://stream.balticbox.tv:8080/RTE2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTEjr
-http://stream.balticbox.tv:8080/RTEJR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TV3 IE
-http://stream.balticbox.tv:8080/TV3IRL/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TG4
-http://stream.balticbox.tv:8080/TG4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,3e
-http://stream.balticbox.tv:8080/3e/mono.m3u8?token=asg!1dkhasg!54754
-
+#EXTINF:-1 group-title=îEnglishî,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1 tvg-id=îFloridach.usî group-title=îEnglishî,Florida CH
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,CARTOON NETWORK
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,HSN
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31/mp4:420p500kB31.m3u8
+#EXTINF:-1 group-title=îEnglishî,HSN 2
+http://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31/mp4:468p500kB3.m3u8
+#EXTINF:-1 group-title=îEnglishî,RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,NFL Network
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1 group-title=îEnglishî,UFO Channel
+http://veetle.com/index.php/hls/streamMbrfast/5570083766031_/stream.m3u8
+#EXTINF:-1 group-title=îEnglishî,World Fashion Channel
+http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,NASA TV (HQ)
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=îEnglishî,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=îEnglishî,At The Drive-In
+http://veetle.com/index.php/hls/streamMbrfast/5408d7749bc24_/stream.m3u8
+#EXTINF:-1 group-title=îEnglishî,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+#EXTINF:-1 group-title=îEnglishî,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
+#EXTINF:-1 group-title=îEnglishî,GLOBAL
+https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
+#EXTINF:-1 group-title=îEnglishî,GLOBAL Toronto
+https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
+#EXTINF:-1 tvg-id=îabcnews.comî group-title=îEnglishî,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-id=îabcnews.comî group-title=îEnglishî,ABC News (2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-id=îNhk.jpî group-title=îEnglishî,NHK World
+http://web-cache.stream.ne.jp/www11/nhkworld-tv/global/222714/live.m3u8
+#EXTINF:-1 group-title=îEnglishî,CPAC
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1 group-title=îEnglishî,ARIRANG
+http://worldlive-ios.arirang.co.kr/arirang/arirangtvworldios.mp4.m3u8
+#EXTINF:-1 group-title=îEnglishî,Trace Urban
+http://stream01.yamgo.com/iPhone/broadcast/trace_tv_urban-tablet.3gp.m3u8
+#EXTINF:-1 tvg-id=î0490? group-title=îEnglishî tvg-logo=îes1.pngî,Eurosport 1 EN
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network National
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Washington HD
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Washington
+http://xrxs.net/video/live-p12wash-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Los Angeles
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Oregon
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Bay Area
+http://xrxs.net/video/live-p12baya-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Moutain HD
+http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:-1 group-title=îEnglishî,Pac 12 Network Moutain
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1 group-title=îEnglishî,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:-1, ABC
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 #EXTINF:-1, ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:-1, ABC News (stream 2)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
-#EXTINF:-1, NBC Sports Network 1080P
-http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1, BBC World News
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
-#EXTINF:-1, Big Ten Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:0,CBS 2
-HTTP://192.99.147.19:5808/cbshdguys/playlist.m3u8
-#EXTINF:0,NBC 4
-http://192.99.147.19:5808/nbchdguys/index.m3u8
-#EXTINF:0,ABC 7
-http://192.99.147.19:5808/abchdguys/playlist.m3u8
-#EXTINF:0,FOX 5
-http://192.99.147.19:5808/foxhdguys/index.m3u8?
-#EXTINF:0,ESPN
-http://192.99.147.19:5808/espnhdguys/playlist.m3u8
-#EXTINF:0,FOX SPORTS 1
-http://192.99.147.19:5808/foxsports/playlist.m3u8
-#EXTINF:0, Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:-1, CNN
-http://wpc.c1a9.edgecastcdn.net/hls-
-
-#EXTINF:-1,ID
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE One
-http://stream.balticbox.tv:8080/RTE1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTE Two [HD]
-http://stream.balticbox.tv:8080/RTE2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,RTEjr
-http://stream.balticbox.tv:8080/RTEJR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TV3 IE
-http://stream.balticbox.tv:8080/TV3IRL/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TG4
-http://stream.balticbox.tv:8080/TG4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,3e
-http://stream.balticbox.tv:8080/3e/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Comedy Xtra
-http://stream.balticbox.tv:8080/CmdyXtr/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,DisneyChnl
-http://stream.balticbox.tv:8080/Disney/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Animal Planet
-http://stream.balticbox.tv:8080/ANIUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery History
-http://stream.balticbox.tv:8080/DISHist/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,DisneyJunior
-http://stream.balticbox.tv:8080/DIJR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Cartoon Network UK
-http://stream.balticbox.tv:8080/CARUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery1
-http://stream.balticbox.tv:8080/DIS1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery Science
-http://stream.balticbox.tv:8080/DISS/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Discovery Turbo
-http://stream.balticbox.tv:8080/DISTurbo/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Travel Channel+1 UK
-http://stream.balticbox.tv:8080/TRAUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,CBS Reality+1 UK
-http://stream.balticbox.tv:8080/CBSReality/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,TCM +1 UK
-http://stream.balticbox.tv:8080/TCMUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,mov4men1
-http://stream.balticbox.tv:8080/M4M/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Family Movies
-http://stream.balticbox.tv:8080/SkyFamily/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Greats Movies
-http://stream.balticbox.tv:8080/SkyGreats/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Thriller Movies
-http://stream.balticbox.tv:8080/SkyCrime/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Comedy Movies
-http://stream.balticbox.tv:8080/SkyComedy/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Premiere Movies
-http://stream.balticbox.tv:8080/SkyPremiere/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Action Movies
-http://stream.balticbox.tv:8080/SkyAction/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Select Movies
-http://stream.balticbox.tv:8080/SkySelect/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky DramaRom Movies
-http://stream.balticbox.tv:8080/SkyDrama/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky ScFiHorror Movies
-http://stream.balticbox.tv:8080/SkySci/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MUTV
-http://stream.balticbox.tv:8080/MUTV/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport EUROPE
-http://stream.balticbox.tv:8080/BTSpeur/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport ESPN
-http://stream.balticbox.tv:8080/BTSespn/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport 1
-http://stream.balticbox.tv:8080/BTSp1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BT Sport 2
-http://stream.balticbox.tv:8080/BTSp2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,PremierSports
-http://stream.balticbox.tv:8080/PRMSP/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Racing UK
-http://stream.balticbox.tv:8080/RACUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Setanta Ireland
-http://stream.balticbox.tv:8080/SETIRL/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sports F1
-http://stream.balticbox.tv:8080/SkySPf1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sp News HQ
-http://stream.balticbox.tv:8080/SKYSPNEWS/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 1
-http://stream.balticbox.tv:8080/SkySP1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 2
-http://stream.balticbox.tv:8080/SkySP2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 3
-http://stream.balticbox.tv:8080/SkySP3/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 4
-http://stream.balticbox.tv:8080/SkySP4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Sports 5
-http://stream.balticbox.tv:8080/SkySP5/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,British Eurosport
-http://stream.balticbox.tv:8080/EUUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,British Eurosport2
-http://stream.balticbox.tv:8080/EU2UK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Box Nation
-http://stream.balticbox.tv:8080/BOX/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Chelsea TV
-http://stream.balticbox.tv:8080/Chls/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,LFC TV
-http://stream.balticbox.tv:8080/LFCTV/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,NBA
-http://stream.balticbox.tv:8080/NBA/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Viasat Golf
-http://stream.balticbox.tv:8080/VSGOLF/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV BASE
-http://stream.balticbox.tv:8080/MTVB/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV ROCKS
-http://stream.balticbox.tv:8080/MTVR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV Dance
-http://stream.balticbox.tv:8080/MTVD/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV Hits!
-http://stream.balticbox.tv:8080/MTVH/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,VIVA the Hits!
-http://stream.balticbox.tv:8080/VIVA/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky 1
-http://stream.balticbox.tv:8080/Sky1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky 2
-http://stream.balticbox.tv:8080/Sky2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Atlantic
-http://stream.balticbox.tv:8080/SkyAtl/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Horror Channel UK
-http://stream.balticbox.tv:8080/HOR/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Boomerang
-http://stream.balticbox.tv:8080/BOO/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV
-http://stream.balticbox.tv:8080/ITV1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 2
-http://stream.balticbox.tv:8080/ITV2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 3
-http://stream.balticbox.tv:8080/ITV3/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,ITV 4
-http://stream.balticbox.tv:8080/ITV4/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BBC One [HD]
-http://stream.balticbox.tv:8080/HDBBC1/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,BBC Two [HD]
-http://stream.balticbox.tv:8080/HDBBC2/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Motors UK
-http://stream.balticbox.tv:8080/MOTUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Sky Movies Disney
-http://stream.balticbox.tv:8080/SkyDisney/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,MTV MUSIC
-http://stream.balticbox.tv:8080/MTVM/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Investigation Discovery
-http://stream.balticbox.tv:8080/IDUK/mono.m3u8?token=asg!1dkhasg!54754
-#EXTINF:-1,Dave
-http://stream.balticbox.tv:8080/dave/mono.m3u8?token=asg!1dkhasg!54754
