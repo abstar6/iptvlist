@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title=îEnglishî,SkySports 1
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,SkySports 2
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,SkySports 3
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,SkySports 4
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
+#EXTINF:-1 group-title=îEnglishî,SkySports 5
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
+
 #EXTINF:-1 group-title=îEnglishî,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:-1 tvg-id=îFloridach.usî group-title=îEnglishî,Florida CH
