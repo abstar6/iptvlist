@@ -3,15 +3,15 @@
 #EXTINF:-1,Sky Sports News
 http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
 #EXTINF:-1,SkySports 1
-http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
+http://169.45.89.106:1935/app/skysports1lsh/playlist.m3u8
 #EXTINF:-1,SkySports 2
-http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
+http://169.45.89.106:1935/app/skysports2lsh/playlist.m3u8
 #EXTINF:-1,SkySports 3
-http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
+http://169.45.89.106:1935/app/skysports3lsh/playlist.m3u8
 #EXTINF:-1,SkySports 4
-http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
+http://169.45.89.106:1935/app/skysports4lsh/playlist.m3u8
 #EXTINF:-1,SkySports 5
-http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
+http://169.45.89.106:1935/app/skysports5lsh/playlist.m3u8
 #EXTINF:-1,Bt Sports 1
 http://167.114.41.215:8080/btSp1_j/btSp1_j/index.m3u8
 #EXTINF:-1,Bt Sports 2
