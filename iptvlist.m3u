@@ -1,0 +1,210 @@
+#EXTM3U
+
+#EXTINF:-1,BBC 1 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/101.ts
+#EXTINF:-1,BBC 2 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/102.ts
+#EXTINF:-1,BBC 3 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/100.ts
+#EXTINF:-1,BBC 4 UK
+#EXTINF:-1,ITV 1 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/103.ts
+#EXTINF:-1,ITV 2 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/104.ts
+#EXTINF:-1,ITV 3 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/105.ts
+#EXTINF:-1,ITV 4 UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/106.ts
+
+#EXTINF:-1,Boxnation HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/240.ts
+#EXTINF:-1,Box Nation
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/15.ts
+#EXTINF:-1,Bt Sports 1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/10.ts
+#EXTINF:-1,Bt Sports 2
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/11.ts
+#EXTINF:-1,ESPN UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/14.ts
+#EXTINF:-1,ESPN USA
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/48.ts
+#EXTINF:-1,ESPN 2 USA
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/49.ts
+#EXTINF:-1,Eurosport 1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/12.ts
+#EXTINF:-1,Eurosport 2
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/13.ts
+
+#EXTINF:-1,Premier Sports
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/9.ts
+#EXTINF:-1,Setanta Sports
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/8.ts
+
+#EXTINF:-1,Sky Movie (Action&Adventure)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/110.ts
+#EXTINF:-1,Sky Movie (Comedy)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/108.ts
+#EXTINF:-1,Sky Movie (Crime&Thriller)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/113.ts
+#EXTINF:-1,Sky Movie (Drama)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/107.ts
+#EXTINF:-1,Sky Movie (Family)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/65.ts
+#EXTINF:-1,Sky Movie (Modern Greats)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/109.ts
+#EXTINF:-1,Sky Movie (Premiere)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/111.ts
+#EXTINF:-1,Sky Movie (SciFi&Horror)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/112.ts
+#EXTINF:-1,Sky Movie (Select)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/64.ts
+#EXTINF:-1,Sky Atlantic
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/98.ts
+#EXTINF:-1,SkySports 1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/1.ts
+#EXTINF:-1,SkySports 2
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/2.ts
+#EXTINF:-1,SkySports 3
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/3.ts
+#EXTINF:-1,SkySports 4
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/4.ts
+#EXTINF:-1,SkySports 5
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/5.ts
+#EXTINF:-1,SkySports F1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/6.ts
+#EXTINF:-1,SkySports News
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/7.ts
+#EXTINF:-1,NFL Network
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/58.ts
+#EXTINF:-1,At The Races
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/52.ts
+#EXTINF:-1,Racing UK
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/53.ts
+#EXTINF:-1,Fox Sports 1 USA
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/59.ts
+#EXTINF:-1,Fox Sports 2 USA
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/60.ts
+#EXTINF:-1,OTE Sports 1
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/85.ts
+#EXTINF:-1,OTE Sports 2
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/86.ts
+#EXTINF:-1,OTE Sports 3
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/87.ts
+#EXTINF:-1,OTE Sports 4
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/90.ts
+#EXTINF:-1,OTE Sports 5
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/91.ts
+#EXTINF:-1,OTE Sports 6
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/92.ts
+#EXTINF:-1,Sport Klub 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/71.ts
+#EXTINF:-1,Sport Klub 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/72.ts
+#EXTINF:-1,Sport Klub 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/73.ts
+#EXTINF:-1,Super Sport 1 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/66.ts
+#EXTINF:-1,Super Sport 2 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/67.ts
+#EXTINF:-1,Super Sport 3 HD
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/68.ts
+#EXTINF:-1,Canal +
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/97.ts
+#EXTINF:-1,Canal + Sport
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/96.ts
+#EXTINF:-1,Pac 12 Network
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/138.ts
+#EXTINF:-1,Sky Sport 1 HD Italy
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/50.ts
+#EXTINF:-1,Sky Sport 2 HD Italy
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/51.ts
+#EXTINF:-1,Btn
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/139.ts
+#EXTINF:-1,Channel 1 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/150.ts
+#EXTINF:-1,Channel 2 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/151.ts
+#EXTINF:-1,Channel 3 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/152.ts
+#EXTINF:-1,Channel 4 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/153.ts
+#EXTINF:-1,Channel 5 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/154.ts
+#EXTINF:-1,Channel 6 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/155.ts
+#EXTINF:-1,Channel 7 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/156.ts
+#EXTINF:-1,Channel 8 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/157.ts
+#EXTINF:-1,Channel 9 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/158.ts
+#EXTINF:-1,Channel 10 (not 24×7)
+#EXTVLCOPT:http-user-agent=Lavf/55.19.104
+http://iptv.wssiptv.com:80/live/WSSiptv.com/he98fdui97w9769869t85/159.ts
