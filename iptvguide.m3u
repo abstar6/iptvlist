@@ -27,24 +27,24 @@ http://62.65.140.155:80/session/1dd584d6-cc26-11e5-9fdf-005056bc1a52/nvnv5a/2/40
 #EXTINF:-1,ITV3
 http://62.65.140.217:80/session/1e29b6fa-cc26-11e5-ba66-005056bc49ac/nvnv5a/2/4025/index.m3u8?token=8159ee741ef1ca250638e916a74acbe1_1454776378_1454776378&p=127|X-Forwarded-For=85.5.132.126
 
-#EXTINF:-1,Sky Sports News
-http://167.114.41.215:8080/sksportsnews_raf/sksportsnews_raf/index.m3u8
-#EXTINF:-1,Sky Sports 1
-http://167.114.41.215:8080/sk1_raf/sk1_raf/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://167.114.41.215:8080/sk2_j/sk2_j/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://167.114.41.215:8080/sk3_raf/sk3_raf/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://167.114.41.215:8080/sk4_raf/sk4_raf/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://167.114.41.215:8080/sk5_raf/sk5_raf/index.m3u8
-#EXTINF:-1,Bt Sports 1
-http://167.114.41.215:8080/btSp1_j/btSp1_j/index.m3u8
-#EXTINF:-1,Bt Sports 2
-http://167.114.41.215:8080/btsp2_raf/btsp2_raf/index.m3u8
-#EXTINF:-1,Bein Sports 11
-http://167.114.41.215:8080/bein11_j/bein11_j/index.m3u8
+#EXTINF:-1,UK-sky sport 1
+http://bit.do/ukksky1
+#EXTINF:-1,UK-Sky Sport 2
+http://bit.do/ukksky2
+#EXTINF:-1,UK-sky sport 3
+http://bit.do/ukksky3
+#EXTINF:-1,UK-Sky Sport 4
+http://bit.do/ukksky4
+#EXTINF:-1,UK-Sky Sport 5
+http://bit.do/ukksky5
+#EXTINF:-1,UK-Eurosport british
+http://bit.do/ukkEURO1
+#EXTINF:-1,UK-Eurosport british2
+http://bit.do/ukkEURO2
+#EXTINF:-1,UK-BT ESPN
+http://bit.do/ukkBtESpn
+#EXTINF:-1,UK-BOX nation
+http://bit.do/ukkboxnation
 
 #EXTINF:-1,CBSN HD
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
